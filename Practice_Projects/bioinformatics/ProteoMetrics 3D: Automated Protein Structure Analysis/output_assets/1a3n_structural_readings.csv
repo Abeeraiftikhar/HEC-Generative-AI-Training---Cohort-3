@@ -1,0 +1,573 @@
+Residue_Position,Chain_ID,Residue_Type,Phi_Angle,Psi_Angle,Hydrophobicity_Score,Assigned_Structure
+1,A,VAL,,157.512,4.2,Unknown/Terminal
+2,A,LEU,-89.595,124.731,3.8,Loop/Coil
+3,A,SER,-75.84,167.192,-0.8,Loop/Coil
+4,A,PRO,-56.554,-43.6,-1.6,Alpha Helix
+5,A,ALA,-66.675,-37.716,1.8,Alpha Helix
+6,A,ASP,-60.863,-43.132,-3.5,Alpha Helix
+7,A,LYS,-64.761,-40.782,-3.9,Alpha Helix
+8,A,THR,-61.069,-43.176,-0.7,Alpha Helix
+9,A,ASN,-63.532,-43.097,-3.5,Alpha Helix
+10,A,VAL,-63.229,-48.658,4.2,Alpha Helix
+11,A,LYS,-65.219,-36.912,-3.9,Alpha Helix
+12,A,ALA,-64.287,-45.857,1.8,Alpha Helix
+13,A,ALA,-65.992,-45.262,1.8,Alpha Helix
+14,A,TRP,-69.28,-30.297,-0.9,Alpha Helix
+15,A,GLY,-65.174,-39.149,-0.4,Alpha Helix
+16,A,LYS,-69.8,-31.518,-3.9,Alpha Helix
+17,A,VAL,-56.166,-45.947,4.2,Alpha Helix
+18,A,GLY,50.563,-124.907,-0.4,Loop/Coil
+19,A,ALA,-75.465,-1.406,1.8,Loop/Coil
+20,A,HIS,-91.234,2.134,-3.2,Loop/Coil
+21,A,ALA,-48.118,-55.398,1.8,Alpha Helix
+22,A,GLY,-56.416,-42.144,-0.4,Alpha Helix
+23,A,GLU,-62.83,-41.738,-3.5,Alpha Helix
+24,A,TYR,-70.494,-35.205,-1.3,Alpha Helix
+25,A,GLY,-63.592,-43.844,-0.4,Alpha Helix
+26,A,ALA,-64.937,-39.488,1.8,Alpha Helix
+27,A,GLU,-64.545,-41.153,-3.5,Alpha Helix
+28,A,ALA,-62.976,-42.013,1.8,Alpha Helix
+29,A,LEU,-59.973,-45.094,3.8,Alpha Helix
+30,A,GLU,-59.896,-42.924,-3.5,Alpha Helix
+31,A,ARG,-59.128,-45.137,-4.5,Alpha Helix
+32,A,MET,-62.135,-47.488,1.9,Alpha Helix
+33,A,PHE,-61.843,-41.022,2.8,Alpha Helix
+34,A,LEU,-73.461,-41.038,3.8,Alpha Helix
+35,A,SER,-75.861,-39.303,-0.8,Alpha Helix
+36,A,PHE,-125.592,84.007,2.8,Loop/Coil
+37,A,PRO,-60.059,-24.974,-1.6,Alpha Helix
+38,A,THR,-64.471,-22.112,-0.7,Alpha Helix
+39,A,THR,-67.304,-17.715,-0.7,Loop/Coil
+40,A,LYS,-69.433,-13.719,-3.9,Loop/Coil
+41,A,THR,-66.214,-19.011,-0.7,Loop/Coil
+42,A,TYR,-85.625,-5.028,-1.3,Loop/Coil
+43,A,PHE,-129.813,55.23,2.8,Loop/Coil
+44,A,PRO,-69.25,-19.733,-1.6,Loop/Coil
+45,A,HIS,-88.555,3.843,-3.2,Loop/Coil
+46,A,PHE,-115.285,146.291,2.8,Beta Sheet
+47,A,ASP,-84.527,115.258,-3.5,Loop/Coil
+48,A,LEU,-99.18,15.944,3.8,Loop/Coil
+49,A,SER,-68.011,159.148,-0.8,Loop/Coil
+50,A,HIS,-53.344,133.034,-3.2,Loop/Coil
+51,A,GLY,87.994,-2.159,-0.4,Loop/Coil
+52,A,SER,-51.278,135.835,-0.8,Loop/Coil
+53,A,ALA,-73.711,-21.809,1.8,Alpha Helix
+54,A,GLN,-71.426,-42.213,-3.5,Alpha Helix
+55,A,VAL,-66.015,-39.945,4.2,Alpha Helix
+56,A,LYS,-65.109,-39.944,-3.9,Alpha Helix
+57,A,GLY,-70.83,-37.164,-0.4,Alpha Helix
+58,A,HIS,-67.917,-40.18,-3.2,Alpha Helix
+59,A,GLY,-59.533,-38.142,-0.4,Alpha Helix
+60,A,LYS,-65.833,-41.763,-3.9,Alpha Helix
+61,A,LYS,-63.238,-44.574,-3.9,Alpha Helix
+62,A,VAL,-60.036,-46.661,4.2,Alpha Helix
+63,A,ALA,-64.439,-41.69,1.8,Alpha Helix
+64,A,ASP,-64.41,-35.797,-3.5,Alpha Helix
+65,A,ALA,-64.44,-38.3,1.8,Alpha Helix
+66,A,LEU,-69.396,-36.106,3.8,Alpha Helix
+67,A,THR,-63.589,-42.244,-0.7,Alpha Helix
+68,A,ASN,-62.73,-42.541,-3.5,Alpha Helix
+69,A,ALA,-64.536,-39.376,1.8,Alpha Helix
+70,A,VAL,-64.927,-39.377,4.2,Alpha Helix
+71,A,ALA,-65.376,-28.578,1.8,Alpha Helix
+72,A,HIS,-118.906,39.141,-3.2,Loop/Coil
+73,A,VAL,-58.306,-21.335,4.2,Alpha Helix
+74,A,ASP,-94.622,-2.158,-3.5,Loop/Coil
+75,A,ASP,-142.339,48.555,-3.5,Loop/Coil
+76,A,MET,-68.677,-39.718,1.9,Alpha Helix
+77,A,PRO,-51.852,-46.496,-1.6,Alpha Helix
+78,A,ASN,-72.929,-38.434,-3.5,Alpha Helix
+79,A,ALA,-60.209,-36.491,1.8,Alpha Helix
+80,A,LEU,-98.726,14.52,3.8,Loop/Coil
+81,A,SER,-61.401,-42.324,-0.8,Alpha Helix
+82,A,ALA,-65.734,-38.014,1.8,Alpha Helix
+83,A,LEU,-69.429,-31.526,3.8,Alpha Helix
+84,A,SER,-62.888,-41.878,-0.8,Alpha Helix
+85,A,ASP,-64.124,-45.657,-3.5,Alpha Helix
+86,A,LEU,-61.447,-44.976,3.8,Alpha Helix
+87,A,HIS,-72.006,-39.66,-3.2,Alpha Helix
+88,A,ALA,-67.301,-41.239,1.8,Alpha Helix
+89,A,HIS,-112.136,-10.259,-3.2,Loop/Coil
+90,A,LYS,-118.088,-67.331,-3.9,Loop/Coil
+91,A,LEU,-63.855,-43.884,3.8,Alpha Helix
+92,A,ARG,53.494,49.573,-4.5,Loop/Coil
+93,A,VAL,-69.584,126.485,4.2,Loop/Coil
+94,A,ASP,-54.88,135.305,-3.5,Loop/Coil
+95,A,PRO,-53.468,-23.775,-1.6,Alpha Helix
+96,A,VAL,-65.418,-23.344,4.2,Alpha Helix
+97,A,ASN,-73.091,-20.898,-3.5,Alpha Helix
+98,A,PHE,-64.366,-37.004,2.8,Alpha Helix
+99,A,LYS,-66.55,-28.933,-3.9,Alpha Helix
+100,A,LEU,-71.826,-44.92,3.8,Alpha Helix
+101,A,LEU,-67.939,-39.37,3.8,Alpha Helix
+102,A,SER,-56.889,-46.892,-0.8,Alpha Helix
+103,A,HIS,-59.768,-42.091,-3.2,Alpha Helix
+104,A,CYS,-67.299,-32.757,2.5,Alpha Helix
+105,A,LEU,-63.783,-45.134,3.8,Alpha Helix
+106,A,LEU,-57.201,-44.679,3.8,Alpha Helix
+107,A,VAL,-62.181,-42.897,4.2,Alpha Helix
+108,A,THR,-61.808,-44.835,-0.7,Alpha Helix
+109,A,LEU,-61.437,-43.384,3.8,Alpha Helix
+110,A,ALA,-58.905,-42.646,1.8,Alpha Helix
+111,A,ALA,-69.897,-15.407,1.8,Loop/Coil
+112,A,HIS,-115.146,-3.431,-3.2,Loop/Coil
+113,A,LEU,-128.5,67.72,3.8,Loop/Coil
+114,A,PRO,-53.574,-47.607,-1.6,Alpha Helix
+115,A,ALA,-74.532,-46.278,1.8,Alpha Helix
+116,A,GLU,-76.288,-29.314,-3.5,Alpha Helix
+117,A,PHE,-75.156,62.924,2.8,Loop/Coil
+118,A,THR,-75.321,168.476,-0.7,Loop/Coil
+119,A,PRO,-52.884,-45.826,-1.6,Alpha Helix
+120,A,ALA,-62.796,-41.895,1.8,Alpha Helix
+121,A,VAL,-68.065,-40.505,4.2,Alpha Helix
+122,A,HIS,-55.517,-47.339,-3.2,Alpha Helix
+123,A,ALA,-64.881,-39.436,1.8,Alpha Helix
+124,A,SER,-68.857,-39.096,-0.8,Alpha Helix
+125,A,LEU,-65.753,-39.354,3.8,Alpha Helix
+126,A,ASP,-61.12,-44.284,-3.5,Alpha Helix
+127,A,LYS,-62.375,-42.663,-3.9,Alpha Helix
+128,A,PHE,-61.02,-48.725,2.8,Alpha Helix
+129,A,LEU,-66.899,-34.122,3.8,Alpha Helix
+130,A,ALA,-65.874,-37.943,1.8,Alpha Helix
+131,A,SER,-69.409,-41.085,-0.8,Alpha Helix
+132,A,VAL,-60.079,-46.852,4.2,Alpha Helix
+133,A,SER,-56.424,-42.583,-0.8,Alpha Helix
+134,A,THR,-62.017,-46.234,-0.7,Alpha Helix
+135,A,VAL,-62.139,-41.457,4.2,Alpha Helix
+136,A,LEU,-64.287,-23.076,3.8,Alpha Helix
+137,A,THR,-106.038,4.601,-0.7,Loop/Coil
+138,A,SER,-65.318,-21.45,-0.8,Alpha Helix
+139,A,LYS,-106.988,16.061,-3.9,Loop/Coil
+140,A,TYR,-68.07,-27.61,-1.3,Alpha Helix
+141,A,ARG,-159.69,,-4.5,Unknown/Terminal
+142,B,HIS,,110.955,-3.2,Unknown/Terminal
+143,B,LEU,-71.509,142.015,3.8,Loop/Coil
+144,B,THR,-84.778,178.593,-0.7,Loop/Coil
+145,B,PRO,-74.372,-33.912,-1.6,Alpha Helix
+146,B,GLU,-63.597,-42.422,-3.5,Alpha Helix
+147,B,GLU,-63.771,-50.429,-3.5,Alpha Helix
+148,B,LYS,-56.406,-44.461,-3.9,Alpha Helix
+149,B,SER,-64.307,-39.624,-0.8,Alpha Helix
+150,B,ALA,-62.613,-40.513,1.8,Alpha Helix
+151,B,VAL,-65.826,-49.229,4.2,Alpha Helix
+152,B,THR,-61.405,-40.416,-0.7,Alpha Helix
+153,B,ALA,-65.698,-45.672,1.8,Alpha Helix
+154,B,LEU,-69.058,-38.084,3.8,Alpha Helix
+155,B,TRP,-65.401,-24.487,-0.9,Alpha Helix
+156,B,GLY,-64.254,-18.666,-0.4,Loop/Coil
+157,B,LYS,-96.329,-7.921,-3.9,Loop/Coil
+158,B,VAL,-83.898,124.122,4.2,Loop/Coil
+159,B,ASN,-83.745,103.164,-3.5,Loop/Coil
+160,B,VAL,-58.766,-41.071,4.2,Alpha Helix
+161,B,ASP,-60.542,-47.598,-3.5,Alpha Helix
+162,B,GLU,-70.605,-45.224,-3.5,Alpha Helix
+163,B,VAL,-64.834,-36.181,4.2,Alpha Helix
+164,B,GLY,-63.025,-47.399,-0.4,Alpha Helix
+165,B,GLY,-58.618,-43.786,-0.4,Alpha Helix
+166,B,GLU,-67.215,-43.152,-3.5,Alpha Helix
+167,B,ALA,-68.525,-45.796,1.8,Alpha Helix
+168,B,LEU,-64.987,-42.028,3.8,Alpha Helix
+169,B,GLY,-60.647,-44.958,-0.4,Alpha Helix
+170,B,ARG,-63.182,-35.17,-4.5,Alpha Helix
+171,B,LEU,-58.245,-43.506,3.8,Alpha Helix
+172,B,LEU,-71.406,-26.326,3.8,Alpha Helix
+173,B,VAL,-81.656,-51.579,4.2,Alpha Helix
+174,B,VAL,-69.831,-39.917,4.2,Alpha Helix
+175,B,TYR,-123.294,76.233,-1.3,Loop/Coil
+176,B,PRO,-62.683,-17.294,-1.6,Loop/Coil
+177,B,TRP,-64.662,-24.8,-0.9,Alpha Helix
+178,B,THR,-62.395,-16.655,-0.7,Loop/Coil
+179,B,GLN,-64.269,-15.985,-3.5,Loop/Coil
+180,B,ARG,-52.645,-25.913,-4.5,Alpha Helix
+181,B,PHE,-89.626,-8.007,2.8,Loop/Coil
+182,B,PHE,-123.373,37.293,2.8,Loop/Coil
+183,B,GLU,-57.299,-35.82,-3.5,Alpha Helix
+184,B,SER,-86.402,2.091,-0.8,Loop/Coil
+185,B,PHE,-79.522,-0.772,2.8,Loop/Coil
+186,B,GLY,92.342,-149.541,-0.4,Loop/Coil
+187,B,ASP,-65.862,114.259,-3.5,Loop/Coil
+188,B,LEU,-127.31,22.06,3.8,Loop/Coil
+189,B,SER,-64.707,-32.217,-0.8,Alpha Helix
+190,B,THR,-140.315,164.819,-0.7,Beta Sheet
+191,B,PRO,-52.137,-48.071,-1.6,Alpha Helix
+192,B,ASP,-62.995,-37.194,-3.5,Alpha Helix
+193,B,ALA,-68.549,-44.747,1.8,Alpha Helix
+194,B,VAL,-60.615,-50.388,4.2,Alpha Helix
+195,B,MET,-62.424,-34.987,1.9,Alpha Helix
+196,B,GLY,-91.074,-1.889,-0.4,Loop/Coil
+197,B,ASN,-64.987,119.336,-3.5,Loop/Coil
+198,B,PRO,-57.85,-38.804,-1.6,Alpha Helix
+199,B,LYS,-67.951,-35.467,-3.9,Alpha Helix
+200,B,VAL,-65.725,-45.729,4.2,Alpha Helix
+201,B,LYS,-64.24,-40.667,-3.9,Alpha Helix
+202,B,ALA,-64.743,-45.834,1.8,Alpha Helix
+203,B,HIS,-64.619,-41.482,-3.2,Alpha Helix
+204,B,GLY,-55.267,-47.176,-0.4,Alpha Helix
+205,B,LYS,-54.611,-46.257,-3.9,Alpha Helix
+206,B,LYS,-66.203,-43.609,-3.9,Alpha Helix
+207,B,VAL,-63.013,-51.825,4.2,Alpha Helix
+208,B,LEU,-72.291,-24.828,3.8,Alpha Helix
+209,B,GLY,-60.626,-43.638,-0.4,Alpha Helix
+210,B,ALA,-69.387,-38.576,1.8,Alpha Helix
+211,B,PHE,-57.166,-46.963,2.8,Alpha Helix
+212,B,SER,-59.958,-45.308,-0.8,Alpha Helix
+213,B,ASP,-60.578,-36.866,-3.5,Alpha Helix
+214,B,GLY,-64.746,-19.728,-0.4,Loop/Coil
+215,B,LEU,-69.184,-16.612,3.8,Loop/Coil
+216,B,ALA,-84.396,-5.195,1.8,Loop/Coil
+217,B,HIS,-132.169,44.599,-3.2,Loop/Coil
+218,B,LEU,-62.516,-20.332,3.8,Alpha Helix
+219,B,ASP,-87.242,-6.423,-3.5,Loop/Coil
+220,B,ASN,-137.726,45.336,-3.5,Loop/Coil
+221,B,LEU,-61.323,-39.429,3.8,Alpha Helix
+222,B,LYS,-55.446,-49.289,-3.9,Alpha Helix
+223,B,GLY,-69.3,-33.986,-0.4,Alpha Helix
+224,B,THR,-65.15,-39.281,-0.7,Alpha Helix
+225,B,PHE,-102.352,12.238,2.8,Loop/Coil
+226,B,ALA,-58.491,-48.828,1.8,Alpha Helix
+227,B,THR,-62.077,-45.533,-0.7,Alpha Helix
+228,B,LEU,-67.966,-30.52,3.8,Alpha Helix
+229,B,SER,-63.365,-50.249,-0.8,Alpha Helix
+230,B,GLU,-57.612,-40.582,-3.5,Alpha Helix
+231,B,LEU,-59.85,-49.692,3.8,Alpha Helix
+232,B,HIS,-63.469,-32.69,-3.2,Alpha Helix
+233,B,CYS,-78.516,-64.685,2.5,Alpha Helix
+234,B,ASP,-68.753,-35.21,-3.5,Alpha Helix
+235,B,LYS,-108.421,-39.111,-3.9,Loop/Coil
+236,B,LEU,-92.124,-15.359,3.8,Loop/Coil
+237,B,HIS,52.429,48.855,-3.2,Loop/Coil
+238,B,VAL,-97.585,120.7,4.2,Beta Sheet
+239,B,ASP,-59.322,129.135,-3.5,Loop/Coil
+240,B,PRO,-57.778,-19.487,-1.6,Loop/Coil
+241,B,GLU,-57.777,-30.855,-3.5,Alpha Helix
+242,B,ASN,-58.249,-34.861,-3.5,Alpha Helix
+243,B,PHE,-65.835,-35.005,2.8,Alpha Helix
+244,B,ARG,-70.142,-44.685,-4.5,Alpha Helix
+245,B,LEU,-60.474,-43.044,3.8,Alpha Helix
+246,B,LEU,-62.587,-40.551,3.8,Alpha Helix
+247,B,GLY,-56.649,-47.989,-0.4,Alpha Helix
+248,B,ASN,-64.149,-40.77,-3.5,Alpha Helix
+249,B,VAL,-65.943,-39.902,4.2,Alpha Helix
+250,B,LEU,-63.1,-37.374,3.8,Alpha Helix
+251,B,VAL,-65.204,-42.953,4.2,Alpha Helix
+252,B,CYS,-62.173,-38.659,2.5,Alpha Helix
+253,B,VAL,-65.542,-42.72,4.2,Alpha Helix
+254,B,LEU,-62.022,-45.278,3.8,Alpha Helix
+255,B,ALA,-61.627,-43.718,1.8,Alpha Helix
+256,B,HIS,-63.454,-44.368,-3.2,Alpha Helix
+257,B,HIS,-70.005,-44.332,-3.2,Alpha Helix
+258,B,PHE,-91.341,-19.291,2.8,Loop/Coil
+259,B,GLY,65.945,-137.006,-0.4,Loop/Coil
+260,B,LYS,-51.024,-36.831,-3.9,Alpha Helix
+261,B,GLU,-56.837,-26.098,-3.5,Alpha Helix
+262,B,PHE,-84.834,73.945,2.8,Loop/Coil
+263,B,THR,-72.773,171.99,-0.7,Loop/Coil
+264,B,PRO,-51.702,-50.326,-1.6,Alpha Helix
+265,B,PRO,-62.883,-40.432,-1.6,Alpha Helix
+266,B,VAL,-63.021,-43.648,4.2,Alpha Helix
+267,B,GLN,-57.974,-46.397,-3.5,Alpha Helix
+268,B,ALA,-57.212,-38.612,1.8,Alpha Helix
+269,B,ALA,-65.462,-44.763,1.8,Alpha Helix
+270,B,TYR,-66.48,-30.548,-1.3,Alpha Helix
+271,B,GLN,-64.756,-41.154,-3.5,Alpha Helix
+272,B,LYS,-61.081,-44.301,-3.9,Alpha Helix
+273,B,VAL,-63.915,-48.541,4.2,Alpha Helix
+274,B,VAL,-65.502,-36.953,4.2,Alpha Helix
+275,B,ALA,-64.023,-42.37,1.8,Alpha Helix
+276,B,GLY,-64.228,-44.302,-0.4,Alpha Helix
+277,B,VAL,-65.666,-41.905,4.2,Alpha Helix
+278,B,ALA,-66.04,-39.167,1.8,Alpha Helix
+279,B,ASN,-64.875,-36.587,-3.5,Alpha Helix
+280,B,ALA,-66.726,-43.945,1.8,Alpha Helix
+281,B,LEU,-69.2,-21.1,3.8,Alpha Helix
+282,B,ALA,-90.684,-12.705,1.8,Loop/Coil
+283,B,HIS,-61.036,-31.073,-3.2,Alpha Helix
+284,B,LYS,-95.947,13.78,-3.9,Loop/Coil
+285,B,TYR,-73.447,150.649,-1.3,Loop/Coil
+286,B,HIS,-156.473,,-3.2,Unknown/Terminal
+287,C,VAL,,160.134,4.2,Unknown/Terminal
+288,C,LEU,-86.426,115.792,3.8,Loop/Coil
+289,C,SER,-67.643,169.5,-0.8,Loop/Coil
+290,C,PRO,-60.738,-38.527,-1.6,Alpha Helix
+291,C,ALA,-65.935,-37.774,1.8,Alpha Helix
+292,C,ASP,-60.669,-45.007,-3.5,Alpha Helix
+293,C,LYS,-63.71,-43.536,-3.9,Alpha Helix
+294,C,THR,-58.989,-45.548,-0.7,Alpha Helix
+295,C,ASN,-61.891,-44.646,-3.5,Alpha Helix
+296,C,VAL,-64.552,-45.291,4.2,Alpha Helix
+297,C,LYS,-61.052,-40.007,-3.9,Alpha Helix
+298,C,ALA,-69.38,-48.674,1.8,Alpha Helix
+299,C,ALA,-65.557,-47.158,1.8,Alpha Helix
+300,C,TRP,-68.824,-30.653,-0.9,Alpha Helix
+301,C,GLY,-62.662,-34.144,-0.4,Alpha Helix
+302,C,LYS,-72.25,-22.864,-3.9,Alpha Helix
+303,C,VAL,-63.642,-46.322,4.2,Alpha Helix
+304,C,GLY,45.996,-117.279,-0.4,Loop/Coil
+305,C,ALA,-69.48,-13.285,1.8,Loop/Coil
+306,C,HIS,-86.492,-2.332,-3.2,Loop/Coil
+307,C,ALA,-48.439,-49.808,1.8,Alpha Helix
+308,C,GLY,-47.683,-53.467,-0.4,Alpha Helix
+309,C,GLU,-61.474,-41.577,-3.5,Alpha Helix
+310,C,TYR,-72.707,-36.202,-1.3,Alpha Helix
+311,C,GLY,-62.842,-46.568,-0.4,Alpha Helix
+312,C,ALA,-60.9,-41.575,1.8,Alpha Helix
+313,C,GLU,-65.67,-37.884,-3.5,Alpha Helix
+314,C,ALA,-63.957,-39.599,1.8,Alpha Helix
+315,C,LEU,-64.872,-46.753,3.8,Alpha Helix
+316,C,GLU,-59.025,-43.982,-3.5,Alpha Helix
+317,C,ARG,-56.597,-46.827,-4.5,Alpha Helix
+318,C,MET,-62.624,-48.046,1.9,Alpha Helix
+319,C,PHE,-60.641,-36.632,2.8,Alpha Helix
+320,C,LEU,-77.641,-41.602,3.8,Alpha Helix
+321,C,SER,-77.001,-36.034,-0.8,Alpha Helix
+322,C,PHE,-128.546,78.653,2.8,Loop/Coil
+323,C,PRO,-60.95,-22.062,-1.6,Alpha Helix
+324,C,THR,-65.397,-17.099,-0.7,Loop/Coil
+325,C,THR,-72.625,-17.931,-0.7,Loop/Coil
+326,C,LYS,-68.771,-18.394,-3.9,Loop/Coil
+327,C,THR,-59.686,-19.961,-0.7,Loop/Coil
+328,C,TYR,-89.119,-6.016,-1.3,Loop/Coil
+329,C,PHE,-129.507,44.381,2.8,Loop/Coil
+330,C,PRO,-69.574,-15.481,-1.6,Loop/Coil
+331,C,HIS,-91.738,2.449,-3.2,Loop/Coil
+332,C,PHE,-108.152,152.092,2.8,Beta Sheet
+333,C,ASP,-84.782,114.476,-3.5,Loop/Coil
+334,C,LEU,-97.257,6.185,3.8,Loop/Coil
+335,C,SER,-57.059,153.337,-0.8,Loop/Coil
+336,C,HIS,-52.539,130.373,-3.2,Loop/Coil
+337,C,GLY,79.513,4.231,-0.4,Loop/Coil
+338,C,SER,-58.667,145.238,-0.8,Loop/Coil
+339,C,ALA,-58.437,-40.529,1.8,Alpha Helix
+340,C,GLN,-62.973,-43.585,-3.5,Alpha Helix
+341,C,VAL,-67.864,-40.653,4.2,Alpha Helix
+342,C,LYS,-61.584,-42.464,-3.9,Alpha Helix
+343,C,GLY,-67.856,-45.227,-0.4,Alpha Helix
+344,C,HIS,-66.496,-39.764,-3.2,Alpha Helix
+345,C,GLY,-55.38,-45.792,-0.4,Alpha Helix
+346,C,LYS,-62.218,-41.624,-3.9,Alpha Helix
+347,C,LYS,-61.853,-45.06,-3.9,Alpha Helix
+348,C,VAL,-62.799,-47.689,4.2,Alpha Helix
+349,C,ALA,-66.927,-36.878,1.8,Alpha Helix
+350,C,ASP,-68.573,-32.602,-3.5,Alpha Helix
+351,C,ALA,-65.51,-39.812,1.8,Alpha Helix
+352,C,LEU,-66.059,-38.021,3.8,Alpha Helix
+353,C,THR,-58.091,-45.759,-0.7,Alpha Helix
+354,C,ASN,-57.136,-49.331,-3.5,Alpha Helix
+355,C,ALA,-61.45,-42.458,1.8,Alpha Helix
+356,C,VAL,-62.017,-43.301,4.2,Alpha Helix
+357,C,ALA,-62.926,-28.1,1.8,Alpha Helix
+358,C,HIS,-122.446,39.15,-3.2,Loop/Coil
+359,C,VAL,-56.535,-22.699,4.2,Alpha Helix
+360,C,ASP,-80.37,-11.606,-3.5,Loop/Coil
+361,C,ASP,-146.038,63.451,-3.5,Loop/Coil
+362,C,MET,-65.327,-41.689,1.9,Alpha Helix
+363,C,PRO,-49.171,-48.699,-1.6,Alpha Helix
+364,C,ASN,-72.817,-39.219,-3.5,Alpha Helix
+365,C,ALA,-67.463,-29.751,1.8,Alpha Helix
+366,C,LEU,-104.518,16.03,3.8,Loop/Coil
+367,C,SER,-53.484,-46.633,-0.8,Alpha Helix
+368,C,ALA,-66.762,-35.211,1.8,Alpha Helix
+369,C,LEU,-73.669,-31.914,3.8,Alpha Helix
+370,C,SER,-70.762,-36.003,-0.8,Alpha Helix
+371,C,ASP,-63.367,-44.143,-3.5,Alpha Helix
+372,C,LEU,-61.415,-44.396,3.8,Alpha Helix
+373,C,HIS,-70.565,-42.864,-3.2,Alpha Helix
+374,C,ALA,-67.623,-39.98,1.8,Alpha Helix
+375,C,HIS,-100.297,-22.828,-3.2,Loop/Coil
+376,C,LYS,-118.084,-62.286,-3.9,Loop/Coil
+377,C,LEU,-63.035,-47.198,3.8,Alpha Helix
+378,C,ARG,55.999,44.656,-4.5,Loop/Coil
+379,C,VAL,-72.123,130.18,4.2,Loop/Coil
+380,C,ASP,-56.525,135.23,-3.5,Loop/Coil
+381,C,PRO,-53.549,-28.301,-1.6,Alpha Helix
+382,C,VAL,-58.277,-27.953,4.2,Alpha Helix
+383,C,ASN,-72.533,-18.756,-3.5,Loop/Coil
+384,C,PHE,-66.529,-34.195,2.8,Alpha Helix
+385,C,LYS,-66.663,-34.367,-3.9,Alpha Helix
+386,C,LEU,-67.374,-49.005,3.8,Alpha Helix
+387,C,LEU,-65.902,-38.094,3.8,Alpha Helix
+388,C,SER,-58.813,-44.317,-0.8,Alpha Helix
+389,C,HIS,-60.061,-45.549,-3.2,Alpha Helix
+390,C,CYS,-66.43,-32.175,2.5,Alpha Helix
+391,C,LEU,-67.821,-40.743,3.8,Alpha Helix
+392,C,LEU,-62.566,-39.313,3.8,Alpha Helix
+393,C,VAL,-65.874,-39.063,4.2,Alpha Helix
+394,C,THR,-59.936,-47.645,-0.7,Alpha Helix
+395,C,LEU,-63.242,-40.051,3.8,Alpha Helix
+396,C,ALA,-61.563,-41.995,1.8,Alpha Helix
+397,C,ALA,-71.23,-20.891,1.8,Alpha Helix
+398,C,HIS,-113.015,-9.197,-3.2,Loop/Coil
+399,C,LEU,-124.243,68.623,3.8,Loop/Coil
+400,C,PRO,-58.043,-42.408,-1.6,Alpha Helix
+401,C,ALA,-73.273,-34.177,1.8,Alpha Helix
+402,C,GLU,-89.995,-21.407,-3.5,Alpha Helix
+403,C,PHE,-81.262,66.87,2.8,Loop/Coil
+404,C,THR,-78.916,170.67,-0.7,Loop/Coil
+405,C,PRO,-57.569,-46.321,-1.6,Alpha Helix
+406,C,ALA,-60.868,-42.798,1.8,Alpha Helix
+407,C,VAL,-69.897,-40.305,4.2,Alpha Helix
+408,C,HIS,-56.346,-46.497,-3.2,Alpha Helix
+409,C,ALA,-63.483,-44.871,1.8,Alpha Helix
+410,C,SER,-60.829,-44.229,-0.8,Alpha Helix
+411,C,LEU,-63.497,-41.293,3.8,Alpha Helix
+412,C,ASP,-63.357,-41.856,-3.5,Alpha Helix
+413,C,LYS,-65.682,-42.914,-3.9,Alpha Helix
+414,C,PHE,-62.206,-41.498,2.8,Alpha Helix
+415,C,LEU,-70.315,-32.63,3.8,Alpha Helix
+416,C,ALA,-68.016,-37.933,1.8,Alpha Helix
+417,C,SER,-69.791,-37.458,-0.8,Alpha Helix
+418,C,VAL,-62.753,-45.051,4.2,Alpha Helix
+419,C,SER,-59.43,-41.568,-0.8,Alpha Helix
+420,C,THR,-60.965,-47.922,-0.7,Alpha Helix
+421,C,VAL,-60.373,-45.254,4.2,Alpha Helix
+422,C,LEU,-65.514,-19.422,3.8,Loop/Coil
+423,C,THR,-107.172,4.103,-0.7,Loop/Coil
+424,C,SER,-62.52,-20.849,-0.8,Alpha Helix
+425,C,LYS,-111.311,11.773,-3.9,Loop/Coil
+426,C,TYR,-59.34,-29.902,-1.3,Alpha Helix
+427,C,ARG,-160.642,,-4.5,Unknown/Terminal
+428,D,HIS,,146.85,-3.2,Unknown/Terminal
+429,D,LEU,-77.484,148.004,3.8,Loop/Coil
+430,D,THR,-83.661,168.863,-0.7,Loop/Coil
+431,D,PRO,-55.354,-42.367,-1.6,Alpha Helix
+432,D,GLU,-64.278,-39.93,-3.5,Alpha Helix
+433,D,GLU,-64.848,-40.241,-3.5,Alpha Helix
+434,D,LYS,-61.423,-47.707,-3.9,Alpha Helix
+435,D,SER,-57.106,-42.82,-0.8,Alpha Helix
+436,D,ALA,-67.504,-38.647,1.8,Alpha Helix
+437,D,VAL,-62.113,-47.222,4.2,Alpha Helix
+438,D,THR,-61.603,-44.46,-0.7,Alpha Helix
+439,D,ALA,-62.607,-46.61,1.8,Alpha Helix
+440,D,LEU,-68.162,-36.279,3.8,Alpha Helix
+441,D,TRP,-67.894,-24.996,-0.9,Alpha Helix
+442,D,GLY,-61.289,-20.74,-0.4,Alpha Helix
+443,D,LYS,-97.4,0.024,-3.9,Loop/Coil
+444,D,VAL,-87.548,135.286,4.2,Loop/Coil
+445,D,ASN,-89.376,100.085,-3.5,Loop/Coil
+446,D,VAL,-59.585,-44.813,4.2,Alpha Helix
+447,D,ASP,-60.717,-45.747,-3.5,Alpha Helix
+448,D,GLU,-60.506,-53.971,-3.5,Alpha Helix
+449,D,VAL,-63.365,-35.94,4.2,Alpha Helix
+450,D,GLY,-62.677,-49.048,-0.4,Alpha Helix
+451,D,GLY,-60.822,-41.034,-0.4,Alpha Helix
+452,D,GLU,-67.039,-43.743,-3.5,Alpha Helix
+453,D,ALA,-70.128,-41.021,1.8,Alpha Helix
+454,D,LEU,-68.505,-40.497,3.8,Alpha Helix
+455,D,GLY,-64.245,-43.769,-0.4,Alpha Helix
+456,D,ARG,-61.196,-34.561,-4.5,Alpha Helix
+457,D,LEU,-59.965,-45.896,3.8,Alpha Helix
+458,D,LEU,-69.16,-24.717,3.8,Alpha Helix
+459,D,VAL,-83.188,-48.976,4.2,Alpha Helix
+460,D,VAL,-74.271,-35.866,4.2,Alpha Helix
+461,D,TYR,-126.048,75.211,-1.3,Loop/Coil
+462,D,PRO,-62.934,-17.202,-1.6,Loop/Coil
+463,D,TRP,-66.594,-16.133,-0.9,Loop/Coil
+464,D,THR,-73.511,-8.409,-0.7,Loop/Coil
+465,D,GLN,-69.515,-13.495,-3.5,Loop/Coil
+466,D,ARG,-54.242,-27.055,-4.5,Alpha Helix
+467,D,PHE,-86.866,-8.64,2.8,Loop/Coil
+468,D,PHE,-121.757,37.403,2.8,Loop/Coil
+469,D,GLU,-67.217,-23.975,-3.5,Alpha Helix
+470,D,SER,-80.892,-6.244,-0.8,Loop/Coil
+471,D,PHE,-79.131,-1.685,2.8,Loop/Coil
+472,D,GLY,92.573,-141.771,-0.4,Loop/Coil
+473,D,ASP,-71.997,118.288,-3.5,Loop/Coil
+474,D,LEU,-130.681,30.882,3.8,Loop/Coil
+475,D,SER,-72.49,-26.718,-0.8,Alpha Helix
+476,D,THR,-140.458,166.199,-0.7,Beta Sheet
+477,D,PRO,-53.942,-49.792,-1.6,Alpha Helix
+478,D,ASP,-61.632,-38.119,-3.5,Alpha Helix
+479,D,ALA,-66.371,-42.798,1.8,Alpha Helix
+480,D,VAL,-62.614,-48.215,4.2,Alpha Helix
+481,D,MET,-64.803,-32.868,1.9,Alpha Helix
+482,D,GLY,-87.503,-5.782,-0.4,Loop/Coil
+483,D,ASN,-69.425,119.874,-3.5,Loop/Coil
+484,D,PRO,-62.757,-30.976,-1.6,Alpha Helix
+485,D,LYS,-72.756,-37.459,-3.9,Alpha Helix
+486,D,VAL,-62.189,-49.014,4.2,Alpha Helix
+487,D,LYS,-59.839,-42.302,-3.9,Alpha Helix
+488,D,ALA,-60.931,-43.826,1.8,Alpha Helix
+489,D,HIS,-67.624,-34.351,-3.2,Alpha Helix
+490,D,GLY,-62.893,-43.15,-0.4,Alpha Helix
+491,D,LYS,-60.551,-40.985,-3.9,Alpha Helix
+492,D,LYS,-65.149,-50.036,-3.9,Alpha Helix
+493,D,VAL,-64.891,-48.165,4.2,Alpha Helix
+494,D,LEU,-72.686,-26.192,3.8,Alpha Helix
+495,D,GLY,-61.892,-43.68,-0.4,Alpha Helix
+496,D,ALA,-64.334,-42.091,1.8,Alpha Helix
+497,D,PHE,-54.942,-51.82,2.8,Alpha Helix
+498,D,SER,-54.516,-51.633,-0.8,Alpha Helix
+499,D,ASP,-59.716,-34.841,-3.5,Alpha Helix
+500,D,GLY,-64.816,-21.484,-0.4,Alpha Helix
+501,D,LEU,-70.944,-8.14,3.8,Loop/Coil
+502,D,ALA,-86.535,-7.837,1.8,Loop/Coil
+503,D,HIS,-126.048,45.691,-3.2,Loop/Coil
+504,D,LEU,-63.556,-25.25,3.8,Alpha Helix
+505,D,ASP,-88.764,5.091,-3.5,Loop/Coil
+506,D,ASN,-152.767,51.546,-3.5,Loop/Coil
+507,D,LEU,-66.954,-40.193,3.8,Alpha Helix
+508,D,LYS,-57.991,-48.52,-3.9,Alpha Helix
+509,D,GLY,-62.074,-42.205,-0.4,Alpha Helix
+510,D,THR,-66.171,-33.849,-0.7,Alpha Helix
+511,D,PHE,-104.659,8.076,2.8,Loop/Coil
+512,D,ALA,-53.797,-53.847,1.8,Alpha Helix
+513,D,THR,-68.025,-35.12,-0.7,Alpha Helix
+514,D,LEU,-69.214,-31.814,3.8,Alpha Helix
+515,D,SER,-62.872,-51.044,-0.8,Alpha Helix
+516,D,GLU,-59.966,-38.642,-3.5,Alpha Helix
+517,D,LEU,-65.809,-46.777,3.8,Alpha Helix
+518,D,HIS,-62.21,-30.008,-3.2,Alpha Helix
+519,D,CYS,-80.74,-60.618,2.5,Alpha Helix
+520,D,ASP,-69.231,-37.57,-3.5,Alpha Helix
+521,D,LYS,-109.708,-41.274,-3.9,Loop/Coil
+522,D,LEU,-88.988,-16.8,3.8,Loop/Coil
+523,D,HIS,55.392,43.55,-3.2,Loop/Coil
+524,D,VAL,-92.363,113.778,4.2,Beta Sheet
+525,D,ASP,-55.405,128.224,-3.5,Loop/Coil
+526,D,PRO,-59.894,-17.513,-1.6,Loop/Coil
+527,D,GLU,-56.717,-32.236,-3.5,Alpha Helix
+528,D,ASN,-58.564,-31.986,-3.5,Alpha Helix
+529,D,PHE,-69.377,-31.061,2.8,Alpha Helix
+530,D,ARG,-76.294,-39.29,-4.5,Alpha Helix
+531,D,LEU,-65.197,-41.556,3.8,Alpha Helix
+532,D,LEU,-65.247,-38.111,3.8,Alpha Helix
+533,D,GLY,-62.365,-37.657,-0.4,Alpha Helix
+534,D,ASN,-66.181,-42.48,-3.5,Alpha Helix
+535,D,VAL,-64.127,-38.333,4.2,Alpha Helix
+536,D,LEU,-60.263,-44.131,3.8,Alpha Helix
+537,D,VAL,-60.166,-45.568,4.2,Alpha Helix
+538,D,CYS,-60.062,-40.198,2.5,Alpha Helix
+539,D,VAL,-68.246,-42.749,4.2,Alpha Helix
+540,D,LEU,-62.611,-38.047,3.8,Alpha Helix
+541,D,ALA,-62.066,-46.648,1.8,Alpha Helix
+542,D,HIS,-62.751,-45.191,-3.2,Alpha Helix
+543,D,HIS,-68.183,-47.331,-3.2,Alpha Helix
+544,D,PHE,-92.515,-12.184,2.8,Loop/Coil
+545,D,GLY,59.551,-134.917,-0.4,Loop/Coil
+546,D,LYS,-57.418,-23.177,-3.9,Alpha Helix
+547,D,GLU,-63.514,-26.26,-3.5,Alpha Helix
+548,D,PHE,-84.183,70.578,2.8,Loop/Coil
+549,D,THR,-71.523,170.126,-0.7,Loop/Coil
+550,D,PRO,-53.086,-50.448,-1.6,Alpha Helix
+551,D,PRO,-62.567,-38.679,-1.6,Alpha Helix
+552,D,VAL,-65.081,-42.808,4.2,Alpha Helix
+553,D,GLN,-58.88,-48.163,-3.5,Alpha Helix
+554,D,ALA,-54.025,-45.282,1.8,Alpha Helix
+555,D,ALA,-58.24,-50.423,1.8,Alpha Helix
+556,D,TYR,-63.649,-36.086,-1.3,Alpha Helix
+557,D,GLN,-56.833,-43.716,-3.5,Alpha Helix
+558,D,LYS,-60.327,-42.39,-3.9,Alpha Helix
+559,D,VAL,-64.029,-47.187,4.2,Alpha Helix
+560,D,VAL,-70.285,-32.223,4.2,Alpha Helix
+561,D,ALA,-69.811,-38.843,1.8,Alpha Helix
+562,D,GLY,-59.839,-46.915,-0.4,Alpha Helix
+563,D,VAL,-63.9,-46.216,4.2,Alpha Helix
+564,D,ALA,-57.126,-48.251,1.8,Alpha Helix
+565,D,ASN,-64.325,-37.635,-3.5,Alpha Helix
+566,D,ALA,-67.916,-41.22,1.8,Alpha Helix
+567,D,LEU,-70.394,-23.097,3.8,Alpha Helix
+568,D,ALA,-90.742,-9.058,1.8,Loop/Coil
+569,D,HIS,-64.515,-28.846,-3.2,Alpha Helix
+570,D,LYS,-94.814,8.746,-3.9,Loop/Coil
+571,D,TYR,-66.675,150.14,-1.3,Loop/Coil
+572,D,HIS,-159.969,,-3.2,Unknown/Terminal
