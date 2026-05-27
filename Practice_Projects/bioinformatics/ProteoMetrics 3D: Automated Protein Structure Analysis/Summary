@@ -1,0 +1,42 @@
+# ProteoMetrics 3D: Automated Protein Structure Analysis Suite
+
+ProteoMetrics 3D is an automated, end-to-end bioinformatics pipeline designed to parse, analyze, and visualize 3D macromolecular structures directly from the **RCSB Protein Data Bank (PDB)**. By combining structural geometry calculations with interactive WebGL rendering, this tool bridges the gap between raw atomic coordinate datasets and publication-quality biophysical insights inside a Google Colab or Jupyter notebook environment.
+
+---
+
+## 🚀 Key Features
+
+* **Automated Data Retrieval:** Fetches standard `.pdb` coordinate files directly from the RCSB server using a simple 4-character PDB identification string (e.g., `1A3N`).
+* **Interactive 3D Molecular Canvas:** Leverages WebGL via `py3Dmol` to generate real-time, interactive 3D ribbon and cartoon representations of secondary protein folding.
+* **Automated Ramachandran Validation Plot:** Calculates polypeptide backbone torsion angles ($\phi$ and $\psi$) to map stereo-chemical viability and flags structural outliers against favored geometric regions.
+* **Hydrophobicity Profiling:** Computes a moving-average trajectory using the **Kyte-Doolittle scale** to highlight exposed hydrophilic surface loops versus buried hydrophobic structural cores.
+* **Statistical Secondary Structure Breakdown:** Quantifies total residue compositions and calculates relative ratios of Alpha-helices, Beta-sheets, and random coils.
+* **One-Click Local Export:** Automatically compiles raw mathematical readouts into a clean, tabular `.csv` spreadsheet and captures a high-resolution `.png` file of the analytical graphics dashboard for instant local download.
+
+---
+
+## 🛠️ Tech Stack & Dependencies
+
+* **Language:** Python 3
+* **Environment:** Google Colab / Jupyter Notebook
+* **Core Bio-Libraries:** `Biopython` (Structural parsing & geometry math), `py3Dmol` (WebGL 3D graphics rendering)
+* **Data & Visualization:** `Pandas` (Data engineering & CSV building), `Matplotlib` / `Numpy` (Dashboard plotting and moving-average math)
+
+---
+
+## 📊 Analytical Dashboard Preview
+
+When executed, the pipeline generates a comprehensive, production-grade 4-panel analytical graphic:
+
+1. **Amino Acid Composition Count:** A categorical breakdown tracking residue frequency distribution.
+2. **Ramachandran Validation Plot:** Scatter-density map plotting backbone torsion angles within stereochemically favored zones.
+3. **Estimated Secondary Structure %:** A distribution pie chart rendering secondary element partitions.
+4. **Kyte-Doolittle Hydrophobicity Profile:** A sequence position-based windowed graph outlining solvent accessibility boundaries.
+
+---
+
+## 📥 Generated Artifacts & Outputs
+
+The script utilizes automated browser triggers to package and push two main operational outputs instantly to your local machine:
+* `[PDB_ID]_structural_readings.csv` — Full residue-by-residue coordinates, computed angles, and structural assignments.
+* `[PDB_ID]_analysis_dashboard.png` — High-resolution snapshot copy of your compilation metrics panel.
