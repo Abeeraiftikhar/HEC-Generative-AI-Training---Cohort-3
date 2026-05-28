@@ -1,0 +1,32 @@
+# 🎓 AI-Powered Student Performance Analytics Dashboard
+
+An interactive data science and machine learning web application built with **Streamlit** and **XGBoost** to predict, analyze, and visualize student academic trajectories. 
+
+This project bridges the gap between raw data processing and actionable academic intervention, allowing educators to identify at-risk students through real-time predictive analytics.
+
+## 🚀 Key Features
+
+* **🔮 Real-Time GPA Predictor:** Adjust student attendance, study habits, and past failure rates via sidebar sliders to immediately trigger an integrated **XGBoost Regressor** model for real-time GPA predictions.
+* **📊 Attendance vs. Success Trends:** An interactive **Plotly** scatter plot tracking the strict mathematical correlation between attendance percentages and GPA, mapped alongside weekly study hours.
+* **🔥 Course Performance Heatmap:** A visual correlation matrix identifying how tightly specific subject grades (Math, Science, English) relate to overall student outcomes.
+* **📈 Grade Distribution Box Plots:** Breakdowns of subject-wise score variances across the tracked cohort.
+* **🤖 ML Model Transparency:** A built-in *Actual vs. Predicted* model evaluation plot validating the regression model's reliability.
+
+
+## 📸 Dashboard Preview
+
+*Replace this placeholder with the screenshot of your live app! Drag and drop your image into the GitHub repository folder, name it `dashboard_preview.png`, and update the path below:*
+
+
+## 🛠️ Tech Stack & Frameworks
+
+* **User Interface:** Streamlit
+* **Machine Learning:** XGBoost, Scikit-Learn
+* **Data Visualizations:** Plotly Express
+* **Data Processing:** Pandas, NumPy
+
+## 📦 Local Installation Guide
+
+To run this dashboard locally on your machine instead of Google Colab, follow this link . 
+🔗 Click this link to open it: https://hermit-badness-kennel.ngrok-free.dev
+
