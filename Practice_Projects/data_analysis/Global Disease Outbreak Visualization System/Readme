@@ -1,1 +1,29 @@
+# Global Disease Outbreak Visualization System
 
+An interactive, data-driven visualization system engineered to track, analyze, and animate the global transmission dynamics of infectious disease outbreaks. By combining robust data engineering pipelines with modern geospatial and time-series graphing engines, this system converts raw public health logs into an intuitive, visual intelligence dashboard.
+
+## 🚀 Core Features Developed
+
+* **Animated Global Choropleth Timeline:** A dynamic world map that tracks and plays back the macroeconomic geographic spread of disease transmission across chronological thresholds.
+* **Epidemic Wave Velocity Vectoring:** A time-series curve metric visualizing 7-day smoothed running averages to track real daily case momentum instead of purely flat cumulative numbers.
+* **Territorial Grouping Data Cleanse:** Operational logic handling that automatically aggregates granular local states, provinces, and dependencies into unified national totals.
+* **Algorithmic ISO Mapping:** Preprocessing that dynamically matches text-based country variations into standardized ISO Alpha-3 geographic codes for flawless map rendering.
+
+
+## 🛠️ System Architecture & Engineering Stack
+
+The system processes data linearly through a specialized ingestion and rendering pipeline:
+
+1. **Data Ingestion:** Automated data fetching via `kagglehub` API directly from online public repositories.
+2. **Data Processing:** Handled via `pandas` and `numpy` to merge provincial records, convert names to ISO codes, and run time-series delta (`.diff()`) calculations.
+3. **Visual UI Engine:** Built using `plotly.express` for smooth, interactive geographical animations and line charts.
+
+
+## 📊 Key Metrics Tracked
+
+* **Cumulative Confirmed Cases:** Total historical footprint of the outbreak per region.
+* **Daily New Cases:** Calculated to show the active, daily acceleration of the disease.
+* **7-Day Moving Average:** Smooths out weekend reporting anomalies to reveal the true epidemic curve.
+
+git clone [https://github.com/YOUR_USERNAME/global-disease-outbreak-visualization.git](https://github.com/YOUR_USERNAME/global-disease-outbreak-visualization.git)
+cd global-disease-outbreak-visualization
