@@ -1,0 +1,16 @@
+# Core Data Manipulation and Numerical Computing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Interactive Web-Ready Visualizations
+plotly>=5.15.0
+
+# Production-Grade Statistical Canvas Generation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Non-Parametric Biostatistical Timeline & Survival Analysis
+lifelines>=0.27.0
+
+# Interface Framework (For local or cloud dashboard deployments)
+streamlit>=1.25.0
