@@ -1,0 +1,30 @@
+# 🧬 Cancer Mutation Analysis & Visualization Platform
+### Core Engine File: `app.py` / `dashboard.py`
+
+## 📋 File Overview
+This primary Python script serves as the core computational and visualization pipeline for the platform. It is designed to bridge the gap between complex genomic variant data and clinical oncology insights. The script handles high-throughput somatic mutation logs (MAF format) and corresponding patient clinical records, performs multi-dimensional data integration, and renders publication-ready, interactive visual profiles.
+
+## 🛠️ Key Architectural Components & Pipelines
+
+1. **Data Orchestration & Integration Layer (`pandas`)**
+   - Ingests cross-sectional Mutation Annotation Format (MAF) tracking parameters and patient health registries.
+   - Cleans, standardizes, and joins relational datasets using unique clinical barcodes (`Patient_ID`).
+   - Implements a programmatic data matrix translation to pivot raw variant logs into a relational genomic cross-tabulation map (Genes × Samples).
+
+2. **Oncoprint Landscape Generator (`plotly.graph_objects`)**
+   - Constructs a fully dynamic genomic matrix heatmap mirroring native cBioPortal infrastructure.
+   - Encodes variant classifications (Missense, Nonsense, Frame-shift indels, and Splice-site variants) into distinct numeric representations for discrete, multi-color mapping.
+   - Suppresses low-value biological noise (Wild-Type alleles) to emphasize true driver alterations across complex cohorts.
+
+3. **Spatial Karyotype Mapping Engine (`plotly.express`)**
+   - Plots genomic mutation distribution profiles across a coordinate system representing human chromosomes (`chr1` to `chrY`).
+   - Maps base-pair coordinates (`Start_Position`) against chromosomal lanes to pinpoint specific localized hypermutation loci and hot-spot structural variations.
+
+4. **Biostatistical Survival Estimation Engine (`lifelines` & `matplotlib`)**
+   - Applies the non-parametric **Kaplan-Meier estimator** to model patient survival curves over varying clinical time intervals.
+   - Automatically stratifies populations dynamically based on biomarker profiles (e.g., *TP53 Wild-Type* vs. *TP53 Mutant* lines).
+   - Generates shaded confidence intervals (CIs) to evaluate statistical boundaries across patient cohorts.
+
+5. **Automated Export & Workspace Utility (`google.colab.files` / `plotly.io`)**
+   - Runs background compilation tasks that instantly convert browser-rendered, interactive chart objects into standalone `.html` web vectors and crisp vector-drawn `.png` image files.
+   - Synchronizes with file transport services to automatically save integrated tabular sheets directly onto the user's host machine.
