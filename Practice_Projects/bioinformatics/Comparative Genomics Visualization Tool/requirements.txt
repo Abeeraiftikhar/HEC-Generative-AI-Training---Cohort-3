@@ -1,0 +1,13 @@
+# Core Computational Biology Framework
+biopython>=1.81
+
+# Advanced Mathematical and Structured Tabular Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Statistical Graphics Layout Engine
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Dynamic Vector Plot Framework
+plotly>=5.15.0
