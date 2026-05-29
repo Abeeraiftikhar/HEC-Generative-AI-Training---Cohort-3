@@ -1,0 +1,16 @@
+# Hardware-Accelerated 3D WebGL Molecular Graphics Viewer
+py3Dmol>=2.0.0
+
+# Network Topology and Discrete Graph Modeling Framework
+networkx>=3.0
+
+# Advanced Numerical Array and Data-Frame Structures
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Production-Grade Multi-Plot Layout Design Libraries
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Client-Side Interactive Web Chart Framework
+plotly>=5.15.0
