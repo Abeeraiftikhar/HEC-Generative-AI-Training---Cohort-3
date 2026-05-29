@@ -1,0 +1,236 @@
+GeneID,padj,pvalue,lfcSE,stat,log2FoldChange,baseMean,Symbol,Description,Direction,Significant
+255738,5.540000000000001e-75,2.9300000000000005e-79,0.0679,-18.850099,-1.2797748,1351.63,PCSK9,proprotein convertase subtilisin/kexin type 9,Downregulated,True
+2353,1.5999999999999999e-62,2.54e-66,0.0928,-17.20253,-1.5968291,430.28,FOS,"Fos proto-oncogene, AP-1 transcription factor subunit",Downregulated,True
+23764,4.71e-48,1.25e-51,0.0717,-15.117284,-1.0837796,516.66,MAFF,MAF bZIP transcription factor F,Downregulated,True
+134429,1.07e-44,3.3999999999999997e-48,0.0765,-14.587049,-1.1159858,1080.89,STARD4,StAR related lipid transfer domain containing 4,Downregulated,True
+9021,1.54e-36,8.99e-40,0.0877,-13.198184,-1.1580714,873.75,SOCS3,suppressor of cytokine signaling 3,Downregulated,True
+11156,2.65e-36,1.68e-39,0.0837,-13.150753,-1.1010061,484.42,PTP4A3,protein tyrosine phosphatase 4A3,Downregulated,True
+22943,1.2599999999999999e-30,1.6e-33,0.1153,-12.066101,-1.3908821,3867.75,DKK1,dickkopf WNT signaling pathway inhibitor 1,Downregulated,True
+9509,2.27e-30,3e-33,0.0909,-12.013968,-1.0922339,335.04,ADAMTS2,ADAM metallopeptidase with thrombospondin type 1 motif 2,Downregulated,True
+494470,2.78e-30,3.83e-33,0.0912,-11.993854,-1.0938426,294.12,RNF165,ring finger protein 165,Downregulated,True
+10439,2.2e-26,4.19e-29,0.1124,-11.197519,-1.2583057,218.21,OLFM1,olfactomedin 1,Downregulated,True
+7538,4.78e-25,1.1900000000000001e-27,0.0937,-10.89733,-1.0208389,1692.05,ZFP36,ZFP36 ring finger protein,Downregulated,True
+794,9.68e-25,2.46e-27,0.1072,-10.830837,-1.1611526,149.96,CALB2,calbindin 2,Downregulated,True
+90271,1.08e-21,3.38e-24,0.1207,-10.148047,-1.2253253,685.64,OLMALINC,oligodendrocyte maturation-associated long intergenic non-coding RNA,Downregulated,True
+3638,1.9e-20,7.24e-23,0.1321,-9.844535,-1.3000199,1204.9,INSIG1,insulin induced gene 1,Downregulated,True
+3017,2.96e-20,1.17e-22,0.1407,9.795881,1.3785912,209.13,H2BC5,H2B clustered histone 5,Upregulated,True
+8771,2.53e-19,1.1100000000000001e-21,0.1534,-9.565863,-1.467489,1334.52,TNFRSF6B,TNF receptor superfamily member 6b,Downregulated,True
+56953,8.87e-19,4.22e-21,0.111,-9.426903,-1.0466578,176.97,NT5M,"5',3'-nucleotidase, mitochondrial",Downregulated,True
+375791,1.88e-18,9.240000000000001e-21,0.1198,9.344427,1.1195318,121.75,CYSRT1,cysteine rich tail 1,Upregulated,True
+3886,1.05e-17,5.72e-20,0.2222,9.149408,2.0326771,40.38,KRT35,keratin 35,Upregulated,True
+388697,5.48e-17,3.22e-19,0.348,8.960909,3.1186733,70.61,HRNR,hornerin,Upregulated,True
+85236,8.89e-17,5.5e-19,0.1253,8.901645,1.1157296,532.93,H2BC12,H2B clustered histone 12,Upregulated,True
+2298,8.5e-16,6.22e-18,0.1186,8.628459,1.0229871,111.94,FOXD4,forkhead box D4,Upregulated,True
+8334,1.55e-13,1.55e-15,0.1689,7.973164,1.3466487,86.67,H2AC6,H2A clustered histone 6,Upregulated,True
+107987251,2.11e-13,2.15e-15,0.198,7.932111,1.5702615,54.01,LOC107987251,,Upregulated,True
+7481,9.39e-13,1.08e-14,0.1431,-7.729135,-1.1062244,96.38,WNT11,Wnt family member 11,Downregulated,True
+1958,1.14e-12,1.35e-14,0.2218,-7.700876,-1.708357,5763.12,EGR1,early growth response 1,Downregulated,True
+107987374,3.79e-12,5.13e-14,0.1841,-7.528548,-1.3858312,56.98,LOC107987374,replaced by ID 100133545,Downregulated,True
+100133545,6.85e-12,9.94e-14,0.1872,-7.441744,-1.393325,51.73,MRPL23-AS1,MRPL23 antisense RNA 1,Downregulated,True
+150696,7.18e-12,1.05e-13,0.1458,7.43422,1.0836803,481.38,PROM2,prominin 2,Upregulated,True
+81607,7.49e-12,1.11e-13,0.1846,7.426727,1.3712032,109.35,NECTIN4,nectin cell adhesion molecule 4,Upregulated,True
+284385,1.51e-11,2.39e-13,0.1547,7.324689,1.1331565,144.96,ZNF561-AS1,ZNF561 antisense RNA 1 (head to head),Upregulated,True
+57822,6.15e-11,1.08e-12,0.2175,7.12029,1.5486027,168.98,GRHL3,grainyhead like transcription factor 3,Upregulated,True
+3040,9.5e-11,1.76e-12,0.2979,-7.052344,-2.1006484,25.0,HBA2,hemoglobin subunit alpha 2,Downregulated,True
+10929,9.84e-11,1.85e-12,0.1428,7.04554,1.0063234,2095.74,SRSF8,serine and arginine rich splicing factor 8,Upregulated,True
+55515,1.08e-10,2.05e-12,0.153,-7.030912,-1.0759592,111.76,ASIC4,acid sensing ion channel subunit family member 4,Downregulated,True
+57161,1.45e-10,2.8e-12,0.2013,-6.987191,-1.406258,131.13,PELI2,pellino E3 ubiquitin protein ligase family member 2,Downregulated,True
+105370363,2.18e-10,4.32e-12,0.2111,-6.926148,-1.4620349,66.0,LOC105370363,uncharacterized LOC105370363,Downregulated,True
+5324,2.19e-10,4.35e-12,0.1831,-6.925239,-1.2681145,69.98,PLAG1,PLAG1 zinc finger,Downregulated,True
+100652730,3.8e-10,7.84e-12,0.1832,-6.841396,-1.2533757,189.18,LINC00659,long intergenic non-protein coding RNA 659,Downregulated,True
+26154,3.82e-10,7.91e-12,0.3004,6.840241,2.0546823,135.36,ABCA12,ATP binding cassette subfamily A member 12,Upregulated,True
+3006,4.68e-10,9.86e-12,0.1913,6.808537,1.3024326,190.76,H1-2,"H1.2 linker histone, cluster member",Upregulated,True
+84981,6.56e-10,1.41e-11,0.1614,6.75655,1.0908372,179.2,MIR22HG,MIR22 host gene,Upregulated,True
+2200,1.34e-09,3.04e-11,0.227,-6.644503,-1.5081122,126.69,FBN1,fibrillin 1,Downregulated,True
+3039,1.4e-09,3.18e-11,0.2745,-6.637891,-1.8221768,29.52,HBA1,hemoglobin subunit alpha 1,Downregulated,True
+105378853,2.04e-09,4.78e-11,0.1546,-6.577737,-1.0171332,89.53,LINC02609,long intergenic non-protein coding RNA 2609,Downregulated,True
+104355220,4.91e-09,1.27e-10,0.2701,-6.430873,-1.7370218,23.74,LINC01219,long intergenic non-protein coding RNA 1219,Downregulated,True
+84986,5e-09,1.29e-10,0.1609,-6.42783,-1.0340232,1769.22,ARHGAP19,Rho GTPase activating protein 19,Downregulated,True
+376940,7.74e-09,2.08e-10,0.2058,-6.355556,-1.3076992,469.24,ZC3H6,zinc finger CCCH-type containing 6,Downregulated,True
+4608,9.12e-09,2.48e-10,0.3174,6.328183,2.0085609,22.95,MYBPH,myosin binding protein H,Upregulated,True
+107987375,1.69e-08,4.82e-10,0.2591,-6.224748,-1.6130767,28.24,LOC107987375,replaced by ID 104355220,Downregulated,True
+101929174,2e-08,5.82e-10,0.2606,-6.195279,-1.6147942,23.99,LOC101929174,uncharacterized LOC101929174,Downregulated,True
+54039,2.53e-08,7.54e-10,0.1803,-6.154414,-1.1098982,95.33,PCBP3,poly(rC) binding protein 3,Downregulated,True
+101928092,4.97e-08,1.61e-09,0.1877,-6.033251,-1.1324827,114.88,LOC101928092,uncharacterized LOC101928092,Downregulated,True
+8553,5.92e-08,1.94e-09,0.1812,-6.002483,-1.0878022,3061.83,BHLHE40,basic helix-loop-helix family member e40,Downregulated,True
+939,6.64e-08,2.21e-09,0.2404,-5.981603,-1.4379151,29.94,CD27,CD27 molecule,Downregulated,True
+2312,9.26e-08,3.2e-09,0.4898,5.921001,2.8999514,30.17,FLG,filaggrin,Upregulated,True
+132671,1.16e-07,4.14e-09,0.2956,5.878648,1.737633,29.87,SPATA18,spermatogenesis associated 18,Upregulated,True
+1026,2.21e-07,8.52e-09,0.226,5.757809,1.3009897,14154.47,CDKN1A,cyclin dependent kinase inhibitor 1A,Upregulated,True
+9388,2.35e-07,9.16e-09,0.2103,-5.74561,-1.2080856,59.88,LIPG,"lipase G, endothelial type",Downregulated,True
+8349,2.62e-07,1.04e-08,0.2301,5.724243,1.3172033,36.74,H2BC21,H2B clustered histone 21,Upregulated,True
+11227,2.69e-07,1.07e-08,0.2082,5.719014,1.1909243,939.63,GALNT5,polypeptide N-acetylgalactosaminyltransferase 5,Upregulated,True
+171389,2.73e-07,1.09e-08,0.2699,-5.716146,-1.5426529,42.55,NLRP6,NLR family pyrin domain containing 6,Downregulated,True
+3860,3.61e-07,1.49e-08,0.1768,5.662418,1.0013328,134.41,KRT13,keratin 13,Upregulated,True
+100506098,5.15e-07,2.2e-08,0.2367,5.595818,1.3244044,47.73,MACC1-DT,MACC1 divergent transcript,Upregulated,True
+5349,6.75e-07,2.98e-08,0.1826,5.542536,1.0120368,182.98,FXYD3,FXYD domain containing ion transport regulator 3,Upregulated,True
+9514,7.07e-07,3.13e-08,0.1924,-5.533748,-1.0645289,65.03,GAL3ST1,galactose-3-O-sulfotransferase 1,Downregulated,True
+1028,7.33e-07,3.26e-08,0.1814,-5.526794,-1.0025091,431.79,CDKN1C,cyclin dependent kinase inhibitor 1C,Downregulated,True
+7832,7.85e-07,3.53e-08,0.2295,5.512938,1.2650109,1773.39,BTG2,BTG anti-proliferation factor 2,Upregulated,True
+1674,9.24e-07,4.22e-08,0.2259,-5.481355,-1.2381462,112.08,DES,desmin,Downregulated,True
+200350,9.28e-07,4.24e-08,0.2321,5.48038,1.2719254,34.62,FOXD4L1,forkhead box D4 like 1,Upregulated,True
+283463,1.95e-06,9.54e-08,0.3615,5.335362,1.9289564,117.95,MUC19,"mucin 19, oligomeric",Upregulated,True
+8829,2.65e-06,1.34e-07,0.2895,5.273014,1.5265436,178.15,NRP1,neuropilin 1,Upregulated,True
+8794,2.79e-06,1.43e-07,0.2499,5.261635,1.3150135,212.93,TNFRSF10C,TNF receptor superfamily member 10c,Upregulated,True
+100507582,3.03e-06,1.58e-07,0.2148,-5.243372,-1.1264485,128.82,BHLHE40-AS1,BHLHE40 antisense RNA 1,Downregulated,True
+6035,3.12e-06,1.64e-07,0.212,-5.236648,-1.1103477,84.94,RNASE1,"ribonuclease A family member 1, pancreatic",Downregulated,True
+10100,3.16e-06,1.66e-07,0.2185,-5.233564,-1.1436513,55.41,TSPAN2,tetraspanin 2,Downregulated,True
+51200,3.87e-06,2.08e-07,0.2513,5.191834,1.304516,802.56,CPA4,carboxypeptidase A4,Upregulated,True
+51214,4.58e-06,2.55e-07,0.2827,-5.153948,-1.4567839,25.55,IGF2-AS,IGF2 antisense RNA,Downregulated,True
+53836,4.97e-06,2.79e-07,0.3374,5.137197,1.7333498,110.82,GPR87,G protein-coupled receptor 87,Upregulated,True
+355,5.59e-06,3.18e-07,0.2004,5.112508,1.0247085,722.12,FAS,Fas cell surface death receptor,Upregulated,True
+10736,6.14e-06,3.54e-07,0.2608,-5.092334,-1.3280321,29.44,SIX2,SIX homeobox 2,Downregulated,True
+4438,6.48e-06,3.76e-07,0.2269,5.080931,1.152882,115.75,MSH4,mutS homolog 4,Upregulated,True
+93273,7.4e-06,4.38e-07,0.2199,-5.051591,-1.1106357,151.67,LEMD1,LEM domain containing 1,Downregulated,True
+5004,7.9e-06,4.75e-07,0.3165,5.036318,1.5939967,15.35,ORM1,orosomucoid 1,Upregulated,True
+3957,8.15e-06,4.9e-07,0.292,-5.030149,-1.4685645,19.39,LGALS2,galectin 2,Downregulated,True
+101059954,1.24e-05,7.93e-07,0.2415,-4.937133,-1.1925186,34.67,LOC101059954,replaced by ID 105371773,Downregulated,True
+2153,1.31e-05,8.55e-07,0.3168,4.922321,1.5592239,93.21,F5,coagulation factor V,Upregulated,True
+114805,1.39e-05,9.15e-07,0.2538,4.909063,1.2458948,28.21,GALNT13,polypeptide N-acetylgalactosaminyltransferase 13,Upregulated,True
+346653,1.61e-05,1.08e-06,0.3001,4.875853,1.4631757,16.53,GARIN1A,golgi associated RAB2 interactor 1A,Upregulated,True
+105370491,1.68e-05,1.14e-06,0.3112,-4.865639,-1.5141201,23.05,LOC105370491,,Downregulated,True
+2300,1.92e-05,1.33e-06,0.2363,-4.835782,-1.142464,225.99,FOXL1,forkhead box L1,Downregulated,True
+1158,2.29e-05,1.63e-06,0.2711,-4.795175,-1.3002039,21.2,CKM,"creatine kinase, M-type",Downregulated,True
+1308,2.74e-05,1.98e-06,0.3782,4.75533,1.7984573,587.57,COL17A1,collagen type XVII alpha 1 chain,Upregulated,True
+1960,2.8e-05,2.04e-06,0.252,-4.749838,-1.1967253,150.33,EGR3,early growth response 3,Downregulated,True
+401562,2.87e-05,2.1e-06,0.3762,-4.743859,-1.7844308,15.97,LCNL1,lipocalin like 1,Downregulated,True
+105369308,3.28e-05,2.44e-06,0.2933,-4.712736,-1.3820508,32.89,LOC105369308,uncharacterized LOC105369308,Downregulated,True
+8013,3.29e-05,2.47e-06,0.2204,4.71097,1.0384365,55.01,NR4A3,nuclear receptor subfamily 4 group A member 3,Upregulated,True
+2487,4.78e-05,3.8e-06,0.3166,-4.62205,-1.4633403,38.18,FRZB,frizzled related protein,Downregulated,True
+100847035,4.79e-05,3.82e-06,0.3274,-4.621026,-1.5131452,22.77,MIR548AR,microRNA 548ar,Downregulated,True
+554202,4.93e-05,3.94e-06,0.2269,4.614571,1.0471704,65.73,MIR31HG,MIR31 host gene,Upregulated,True
+143689,4.96e-05,3.96e-06,0.286,-4.613302,-1.3194961,23.31,PIWIL4,piwi like RNA-mediated gene silencing 4,Downregulated,True
+83723,5.89e-05,4.8e-06,0.2292,-4.573166,-1.0479673,36.09,TLCD3B,TLC domain containing 3B,Downregulated,True
+1649,6.36e-05,5.25e-06,0.2465,-4.554457,-1.1228825,601.56,DDIT3,DNA damage inducible transcript 3,Downregulated,True
+105369378,6.46e-05,5.35e-06,0.2634,-4.550693,-1.1987828,21.69,PDE2A-AS2,PDE2A antisense RNA 2,Downregulated,True
+112267916,6.69e-05,5.56e-06,0.395,4.542446,1.7944378,32.22,LOC112267916,,Upregulated,True
+643401,7.64e-05,6.45e-06,0.2271,4.511233,1.0244502,87.1,PURPL,p53 upregulated regulator of p53 levels,Upregulated,True
+103344718,0.000105,9.27e-06,0.2753,-4.433581,-1.2203716,42.33,HOTS,,Downregulated,True
+124602,0.000113,1e-05,0.2459,-4.416957,-1.0861899,27.72,KIF19,kinesin family member 19,Downregulated,True
+149837,0.000113,1e-05,0.3379,4.416667,1.492519,21.59,LINC00654,long intergenic non-protein coding RNA 654,Upregulated,True
+8370,0.000114,1.01e-05,0.2488,4.414512,1.0983967,23.64,H4C14,H4 clustered histone 14,Upregulated,True
+6326,0.000122,1.09e-05,0.487,4.39777,2.1416174,39.66,SCN2A,sodium voltage-gated channel alpha subunit 2,Upregulated,True
+101929289,0.00013,1.18e-05,0.2326,-4.38206,-1.019277,37.83,LOC101929289,,Downregulated,True
+730755,0.00014,1.29e-05,0.3001,4.362108,1.3089455,99.84,KRTAP2-3,keratin associated protein 2-3,Upregulated,True
+3882,0.000202,1.93e-05,0.2543,4.273299,1.0866577,71.78,KRT32,keratin 32,Upregulated,True
+89790,0.000202,1.93e-05,0.2505,-4.273095,-1.0705365,30.46,SIGLEC10,sialic acid binding Ig like lectin 10,Downregulated,True
+554,0.000202,1.93e-05,0.3893,4.272829,1.6633186,66.04,AVPR2,arginine vasopressin receptor 2,Upregulated,True
+283748,0.000206,1.97e-05,0.3286,4.267707,1.4021738,22.03,PLA2G4D,phospholipase A2 group IVD,Upregulated,True
+554313,0.000238,2.32e-05,0.2778,4.231499,1.1753514,18.52,H4C15,H4 clustered histone 15,Upregulated,True
+107984533,0.000242,2.37e-05,0.3798,-4.226861,-1.6052623,12.97,LOC107984533,uncharacterized LOC107984533,Downregulated,True
+105377205,0.000268,2.66e-05,0.4227,-4.201046,-1.7757956,9.49,LOC105377205,uncharacterized LOC105377205,Downregulated,True
+9843,0.000291,2.9e-05,0.3375,4.181055,1.4109825,34.45,HEPH,hephaestin,Upregulated,True
+146227,0.000297,2.98e-05,0.254,-4.175244,-1.0603327,82.57,BEAN1,brain expressed associated with NEDD4 1,Downregulated,True
+125931,0.000301,3.01e-05,0.3343,-4.172435,-1.3948558,14.84,CEACAM20,CEA cell adhesion molecule 20,Downregulated,True
+105371024,0.000302,3.03e-05,0.3966,4.171396,1.6543638,14.77,LOC105371024,uncharacterized LOC105371024,Upregulated,True
+79625,0.00032,3.24e-05,0.4283,-4.15615,-1.7800491,16.63,NDNF,neuron derived neurotrophic factor,Downregulated,True
+284654,0.000349,3.57e-05,0.2432,-4.133601,-1.0051519,26.21,RSPO1,R-spondin 1,Downregulated,True
+442213,0.000349,3.58e-05,0.2527,4.133167,1.0446122,302.11,PTCHD4,patched domain containing 4,Upregulated,True
+79679,0.000366,3.81e-05,0.3252,4.118989,1.3392996,24.51,VTCN1,V-set domain containing T cell activation inhibitor 1,Upregulated,True
+6578,0.000402,4.25e-05,0.3717,-4.09319,-1.5213383,13.28,SLCO2A1,solute carrier organic anion transporter family member 2A1,Downregulated,True
+138065,0.000402,4.25e-05,0.3397,-4.093364,-1.3905823,15.4,RNF183,ring finger protein 183,Downregulated,True
+100131551,0.000417,4.43e-05,0.441,-4.083633,-1.8009804,25.95,LINC00887,long intergenic non-protein coding RNA 887,Downregulated,True
+1995,0.000451,4.88e-05,0.2728,4.061539,1.1078572,18.43,ELAVL3,ELAV like RNA binding protein 3,Upregulated,True
+105376951,0.00048,5.27e-05,0.3475,-4.043303,-1.4049423,12.62,LOC105376951,uncharacterized LOC105376951,Downregulated,True
+22973,0.00052,5.78e-05,0.3112,-4.021731,-1.2515412,29.42,LAMB2P1,laminin subunit beta 2 pseudogene 1,Downregulated,True
+401258,0.000523,5.82e-05,0.3199,4.020098,1.2860832,14.53,RAB44,"RAB44, member RAS oncogene family",Upregulated,True
+8689,0.00063,7.21e-05,0.4623,3.969291,1.834962,20.57,KRT36,keratin 36,Upregulated,True
+105376146,0.000687,7.97e-05,0.4346,3.945312,1.7146595,11.96,LOC105376146,synapsin-1,Upregulated,True
+196883,0.000728,8.5e-05,0.3182,-3.929751,-1.2503746,17.97,ADCY4,adenylate cyclase 4,Downregulated,True
+8529,0.000761,8.95e-05,0.3799,-3.917437,-1.4882925,19.37,CYP4F2,cytochrome P450 family 4 subfamily F member 2,Downregulated,True
+105372578,0.00083,9.93e-05,0.2635,3.892333,1.0254665,82.38,LINC02967,long intergenic non-protein coding RNA 2967,Upregulated,True
+440689,0.000994,0.000123,0.3564,3.840747,1.3687886,12.85,H2BC18,H2B clustered histone 18,Upregulated,True
+338376,0.00101,0.000125,0.4411,3.836886,1.6925866,24.25,IFNE,interferon epsilon,Upregulated,True
+27439,0.00107,0.000134,0.2828,3.818628,1.0800968,57.22,TMEM121B,transmembrane protein 121B,Upregulated,True
+105370495,0.00119,0.000153,0.2691,-3.786337,-1.0187926,43.5,LOC105370495,uncharacterized LOC105370495,Downregulated,True
+692233,0.00121,0.000156,0.3625,-3.78141,-1.3705868,12.91,SNORD117,"small nucleolar RNA, C/D box 117",Downregulated,True
+105373424,0.00127,0.000164,0.2849,-3.768279,-1.0734292,47.54,LOC105373424,uncharacterized LOC105373424,Downregulated,True
+10071,0.00128,0.000166,0.4072,-3.766265,-1.5337841,360.17,MUC12,"mucin 12, cell surface associated",Downregulated,True
+143162,0.00157,0.00021,0.4332,3.706336,1.6055755,23.61,FRMPD2,FERM and PDZ domain containing 2,Upregulated,True
+249,0.00159,0.000214,0.3057,-3.701656,-1.1315595,24.14,ALPL,"alkaline phosphatase, biomineralization associated",Downregulated,True
+60385,0.00172,0.000236,0.3093,-3.677504,-1.137491,22.61,TSKS,testis specific serine kinase substrate,Downregulated,True
+107987059,0.00178,0.000245,0.3003,3.667449,1.1013506,23.18,LOC107987059,uncharacterized LOC107987059,Upregulated,True
+8404,0.002,0.000282,0.4261,3.63128,1.5474688,16.58,SPARCL1,SPARC like 1,Upregulated,True
+101929536,0.00207,0.000294,0.2856,-3.620814,-1.0341233,30.91,LOC101929536,uncharacterized LOC101929536,Downregulated,True
+54437,0.00209,0.000298,0.3307,-3.617224,-1.1960953,18.25,SEMA5B,semaphorin 5B,Downregulated,True
+283860,0.00212,0.000303,0.4758,3.612682,1.7190327,32.29,LINC00304,long intergenic non-protein coding RNA 304,Upregulated,True
+9881,0.00216,0.00031,0.2779,3.607046,1.0024334,101.49,TRANK1,tetratricopeptide repeat and ankyrin repeat containing 1,Upregulated,True
+56103,0.00235,0.000344,0.315,3.57964,1.1277138,32.85,PCDHGB2,"protocadherin gamma subfamily B, 2",Upregulated,True
+105378653,0.00249,0.000367,0.3362,-3.56254,-1.1977601,13.86,MIR3659HG,MIR3659 host gene,Downregulated,True
+4481,0.00262,0.00039,0.3533,-3.54689,-1.2531951,13.87,MSR1,macrophage scavenger receptor 1,Downregulated,True
+2697,0.00278,0.000419,0.7102,3.528037,2.5057858,74.3,GJA1,gap junction protein alpha 1,Upregulated,True
+4069,0.0028,0.000421,0.3699,3.52647,1.3044747,10.89,LYZ,lysozyme,Upregulated,True
+55244,0.00282,0.000425,0.3949,3.524247,1.3918404,12.37,SLC47A1,solute carrier family 47 member 1,Upregulated,True
+8353,0.00283,0.000427,0.3437,3.522599,1.2106077,32.25,H3C6,H3 clustered histone 6,Upregulated,True
+64399,0.00286,0.000432,0.347,3.519672,1.2214697,15.27,HHIP,hedgehog interacting protein,Upregulated,True
+100302185,0.00293,0.000445,0.3012,3.51209,1.0578502,16.7,MIR1204,microRNA 1204,Upregulated,True
+105371773,0.00328,0.000508,0.3431,-3.476393,-1.1927938,25.41,LOC105371773,uncharacterized LOC105371773,Downregulated,True
+101927668,0.00352,0.00055,0.3258,3.455253,1.1255816,15.65,LOC101927668,uncharacterized LOC101927668,Upregulated,True
+100861510,0.00382,0.000608,0.3041,-3.42792,-1.0423596,17.22,LRRC3-DT,LRRC3 divergent transcript,Downregulated,True
+105371472,0.00391,0.000627,0.3217,-3.419571,-1.0999578,37.67,LOC105371472,uncharacterized LOC105371472,Downregulated,True
+634,0.00441,0.000727,0.3289,3.379136,1.111428,111.43,CEACAM1,CEA cell adhesion molecule 1,Upregulated,True
+107987243,0.00445,0.000736,0.337,-3.375641,-1.1376697,14.11,LOC107987243,uncharacterized LOC107987243,Downregulated,True
+105369367,0.00448,0.000742,0.368,-3.373478,-1.2414011,15.86,LOC105369367,uncharacterized LOC105369367,Downregulated,True
+100506801,0.00462,0.000772,0.3345,-3.362723,-1.12489,12.42,ECE1-AS1,ECE1 antisense RNA 1,Downregulated,True
+105371267,0.00468,0.000783,0.3012,3.358736,1.0115613,97.4,CHD9NB,CHD9 neighbor,Upregulated,True
+105375124,0.00483,0.000813,0.356,-3.348194,-1.191944,17.03,LOC105375124,uncharacterized LOC105375124,Downregulated,True
+100507194,0.00496,0.000842,0.4625,-3.33877,-1.5443196,11.46,LINC02525,long intergenic non-protein coding RNA 2525,Downregulated,True
+112267901,0.00521,0.000894,0.3071,-3.321888,-1.0202445,21.77,LOC112267901,uncharacterized LOC112267901,Downregulated,True
+25780,0.00535,0.000924,0.3768,3.31264,1.2482958,43.61,RASGRP3,RAS guanyl releasing protein 3,Upregulated,True
+339804,0.00543,0.000941,0.4134,-3.307641,-1.3673732,11.8,C2orf74,chromosome 2 open reading frame 74,Downregulated,True
+105376436,0.00589,0.00104,0.4051,-3.280215,-1.3289354,14.3,LOC105376436,uncharacterized LOC105376436,Downregulated,True
+9540,0.00598,0.00106,0.4355,3.273675,1.4256627,670.01,TP53I3,tumor protein p53 inducible protein 3,Upregulated,True
+1116,0.00613,0.00109,0.3384,3.265097,1.1049963,13.64,CHI3L1,chitinase 3 like 1,Upregulated,True
+644242,0.00636,0.00114,0.4923,-3.252362,-1.601239,8.73,LINC00622,long intergenic non-protein coding RNA 622,Downregulated,True
+56123,0.0064,0.00115,0.4092,3.250143,1.329972,27.7,PCDHB13,protocadherin beta 13,Upregulated,True
+340990,0.00674,0.00123,0.334,-3.232511,-1.0796185,14.88,OTOG,otogelin,Downregulated,True
+8862,0.00681,0.00125,0.415,-3.228262,-1.3398844,11.95,APLN,apelin,Downregulated,True
+105378678,0.00685,0.00125,0.3544,-3.226114,-1.1431761,16.5,LOC105378678,uncharacterized LOC105378678,Downregulated,True
+10346,0.00706,0.0013,0.4697,3.216312,1.5107809,49.54,TRIM22,tripartite motif containing 22,Upregulated,True
+1443,0.0073,0.00135,0.3792,-3.20494,-1.2152524,10.63,CSH2,chorionic somatomammotropin hormone 2,Downregulated,True
+642636,0.00735,0.00136,0.3612,-3.202573,-1.1568596,14.74,RAD21L1,RAD21 cohesin complex component like 1,Downregulated,True
+83853,0.00754,0.0014,0.3839,-3.194126,-1.2262846,13.75,ROPN1L,rhophilin associated tail protein 1 like,Downregulated,True
+6343,0.00773,0.00145,0.3881,-3.185115,-1.2361425,24.91,SCT,secretin,Downregulated,True
+29906,0.00777,0.00145,0.3456,3.183592,1.1003281,17.93,ST8SIA5,"ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 5",Upregulated,True
+5778,0.00797,0.0015,0.3319,-3.174563,-1.053767,16.41,PTPN7,protein tyrosine phosphatase non-receptor type 7,Downregulated,True
+107986264,0.00812,0.00153,0.3307,3.168279,1.0477893,18.46,LINC02438,long intergenic non-protein coding RNA 2438,Upregulated,True
+107986924,0.00858,0.00164,0.3823,-3.148814,-1.2039134,10.06,LOC107986924,uncharacterized LOC107986924,Downregulated,True
+57535,0.00873,0.00167,0.412,3.142834,1.2948045,46.59,ELAPOR1,endosome-lysosome associated apoptosis and autophagy regulator 1,Upregulated,True
+684,0.00938,0.00182,0.3453,3.11827,1.0768328,57.79,BST2,bone marrow stromal cell antigen 2,Upregulated,True
+8547,0.00977,0.00191,0.3401,-3.104246,-1.0556055,18.82,FCN3,ficolin 3,Downregulated,True
+57016,0.00992,0.00195,0.4567,3.098343,1.4148859,23.45,AKR1B10,aldo-keto reductase family 1 member B10,Upregulated,True
+105371744,0.0101,0.00198,0.3317,3.092772,1.0259733,14.72,LOC105371744,replaced by ID 105371745,Upregulated,True
+11314,0.0102,0.002,0.4324,-3.090042,-1.3362833,13.04,CD300A,CD300a molecule,Downregulated,True
+105372906,0.0104,0.00206,0.3279,-3.082015,-1.0106625,13.58,LOC105372906,uncharacterized LOC105372906,Downregulated,True
+105379054,0.0116,0.00235,0.3432,-3.042178,-1.0441504,22.01,VCAN-AS1,VCAN antisense RNA 1,Downregulated,True
+102724434,0.0123,0.00253,0.3508,3.019151,1.0589805,12.36,LOC102724434,uncharacterized LOC102724434,Upregulated,True
+112268079,0.0129,0.00269,0.4197,-3.001626,-1.2596672,9.65,LOC112268079,uncharacterized LOC112268079,Downregulated,True
+107546764,0.0146,0.00311,0.4657,-2.957044,-1.3771681,7.4,LINC01976,long intergenic non-protein coding RNA 1976,Downregulated,True
+105370834,0.0159,0.00345,0.4044,2.924182,1.1825078,11.32,LOC105370834,uncharacterized LOC105370834,Upregulated,True
+105369722,0.0163,0.00355,0.3925,-2.91536,-1.1443952,11.23,LOC105369722,uncharacterized LOC105369722,Downregulated,True
+387856,0.0166,0.00364,0.3884,2.90742,1.1292525,32.33,CCDC184,coiled-coil domain containing 184,Upregulated,True
+347,0.0167,0.00368,0.3538,-2.90455,-1.027559,21.5,APOD,apolipoprotein D,Downregulated,True
+643650,0.0168,0.00368,0.3542,-2.904319,-1.0287257,12.31,LINC00842,long intergenic non-protein coding RNA 842,Downregulated,True
+56000,0.0182,0.00408,0.4737,2.871535,1.3601099,8.94,NXF3,nuclear RNA export factor 3,Upregulated,True
+84830,0.0186,0.00419,0.4041,-2.863641,-1.157316,10.17,ADTRP,androgen dependent TFPI regulating protein,Downregulated,True
+105377650,0.0187,0.00421,0.3937,-2.862184,-1.1267446,11.84,LOC105377650,,Downregulated,True
+64711,0.0199,0.00457,0.4642,-2.835803,-1.3163412,7.94,HS3ST6,heparan sulfate-glucosamine 3-sulfotransferase 6,Downregulated,True
+105377541,0.02,0.00458,0.4477,-2.835203,-1.2694504,12.13,LOC105377541,,Downregulated,True
+105370756,0.0204,0.00472,0.3744,-2.825501,-1.0578201,15.81,LOC105370756,uncharacterized LOC105370756,Downregulated,True
+100129083,0.0215,0.00502,0.3972,-2.805824,-1.1144742,11.04,SIGLEC10-AS1,SIGLEC10 antisense RNA 1,Downregulated,True
+10164,0.0227,0.00536,0.4151,2.784736,1.1559791,17.42,CHST4,carbohydrate sulfotransferase 4,Upregulated,True
+255189,0.0237,0.00565,0.4154,2.767243,1.1494796,11.09,PLA2G4F,phospholipase A2 group IVF,Upregulated,True
+112268050,0.0261,0.00638,0.3793,-2.727461,-1.0344089,12.33,LOC112268050,uncharacterized LOC112268050,Downregulated,True
+29999,0.0263,0.00645,0.3689,-2.724096,-1.0049449,10.98,FSCN3,fascin actin-bundling protein 3,Downregulated,True
+27071,0.0264,0.00646,0.4023,2.723288,1.0955801,11.86,DAPP1,dual adaptor of phosphotyrosine and 3-phosphoinositides 1,Upregulated,True
+221091,0.0264,0.00647,0.4208,2.72293,1.1458794,11.62,LRRN4CL,LRRN4 C-terminal like,Upregulated,True
+147409,0.0271,0.00669,0.3835,2.711996,1.0399833,12.55,DSG4,desmoglein 4,Upregulated,True
+100287898,0.0283,0.00707,0.3728,2.693615,1.0041991,10.24,TTC34,tetratricopeptide repeat domain 34,Upregulated,True
+101927131,0.0284,0.00712,0.3963,-2.691411,-1.0666642,9.13,LOC101927131,uncharacterized LOC101927131,Downregulated,True
+390213,0.0319,0.00823,0.4409,-2.642411,-1.1650485,12.22,DOC2GP,"double C2 domain gamma, pseudogene",Downregulated,True
+112268302,0.0332,0.00863,0.3921,2.626204,1.029799,11.11,LOC112268302,,Upregulated,True
+10599,0.0344,0.00904,0.3915,2.61072,1.0221953,12.6,SLCO1B1,solute carrier organic anion transporter family member 1B1,Upregulated,True
+3765,0.0363,0.00968,0.3954,-2.587215,-1.0229343,10.0,KCNJ9,potassium inwardly rectifying channel subfamily J member 9,Downregulated,True
+51286,0.0365,0.00973,0.9619,2.585232,2.486843,55.11,CEND1,cell cycle exit and neuronal differentiation 1,Upregulated,True
+4033,0.0379,0.0102,0.474,2.568374,1.2173123,18.75,IRAG2,"inositol 1,4,5-triphosphate receptor associated 2",Upregulated,True
+101928004,0.0452,0.0128,0.4056,-2.490644,-1.0100982,18.71,LOC101928004,uncharacterized LOC101928004,Downregulated,True
