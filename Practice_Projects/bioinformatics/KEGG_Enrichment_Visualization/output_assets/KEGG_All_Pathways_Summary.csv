@@ -1,0 +1,11 @@
+Pathway,Direction,Gene_Count,P_Value,Benjamini_FDR,Fold_Enrichment,negLog10_Pval,Genes
+"Growth hormone synthesis, secretion and action",Downregulated,4,0.0117,1.0,8.19,1.9318141382538383,"SOCS3,CSH2,ADCY4,FOS"
+Wnt signaling pathway,Downregulated,4,0.0298,1.0,5.74,1.5257837359237447,"WNT11,FRZB,RSPO1,DKK1"
+Systemic lupus erythematosus,Upregulated,8,6.03e-06,0.000639,10.99,5.219682687859849,"H2BC12,H4C15,H2BC5,H2AC6,H4C14,H2BC21,H2BC18,H3C6"
+Cornified envelope formation,Upregulated,9,9.54e-06,0.000639,8.21,5.020451625295905,"FLG,COL17A1,KRT36,KRT13,KRT35,KRT32,DSG4,ABCA12,HRNR"
+Alcoholism,Upregulated,8,3.8e-05,0.0015,8.29,4.42021640338319,"H2BC12,H4C15,H2BC5,H2AC6,H4C14,H2BC21,H2BC18,H3C6"
+Neutrophil extracellular trap formation,Upregulated,8,4.48e-05,0.0015,8.07,4.348721986001856,"H2BC12,H4C15,H2BC5,H2AC6,H4C14,H2BC21,H2BC18,H3C6"
+Viral carcinogenesis,Upregulated,7,0.000483,0.0129,6.76,3.316052869248488,"H2BC12,CDKN1A,H4C15,H2BC5,H4C14,H2BC21,H2BC18"
+Staphylococcus aureus infection,Upregulated,4,0.0139,0.31,7.76,1.856985199745905,"KRT36,KRT13,KRT35,KRT32"
+Estrogen signaling pathway,Upregulated,4,0.0312,0.596,5.69,1.5058454059815571,"KRT36,KRT13,KRT35,KRT32"
+Necroptosis,Upregulated,4,0.0437,0.732,4.98,1.359518563029578,"PLA2G4F,PLA2G4D,H2AC6,FAS"
