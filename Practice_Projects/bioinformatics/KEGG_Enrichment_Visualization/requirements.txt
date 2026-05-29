@@ -1,0 +1,10 @@
+# Data Wrangling and Math
+pandas>=2.1.0
+numpy>=1.24.0
+
+# Visualization & Scientific Styling
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Protocol Core Utilities
+scipy>=1.10.0
