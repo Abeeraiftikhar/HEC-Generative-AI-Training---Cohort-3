@@ -1,0 +1,48 @@
+# 🧬 Molecular Docking Results Visualization Dashboard
+
+## 📌 Project Overview
+The **Molecular Docking Results Visualization Dashboard** is a computational biology pipeline designed to transform raw screening data and spatial logs from molecular docking tools (such as **AutoDock Vina** and **CB-Dock2**) into intuitive, interactive, and high-resolution visual models. 
+
+This platform streamlines structure-based virtual screening workflows for antimicrobial drug discovery. It handles the structural thermodynamics of binding affinity scoring matrices, models non-covalent intermolecular interactions, and maps exact 3D spatial coordinate vectors inside the target protein's active-site pocket. 
+
+According to classical chemical thermodynamics, the experimental binding constant ($K_d$) scales exponentially with changes in the Gibbs free energy matrix:
+
+$$\Delta G = -RT \ln K_d$$
+
+This pipeline provides a framework to filter through a library screening cohort and extract promising antimicrobial hit compounds based on both spatial geometry and thermodynamic constraints.
+## 🚀 Core Features & Visualizations
+
+1. **Interactive 3D Pocket Viewport (`py3Dmol`)**
+   * Employs web-accelerated WebGL processing to render protein-ligand structural configurations dynamically inside browser environments.
+   * Features translucent solvent-accessible surface meshes over receptor channels alongside explicit element-colored stick configurations for bound small molecules.
+
+2. **Static 3D Structural Vector Canvas (`matplotlib`)**
+   * Plots explicit atomistic Cartesian coordinate matrices $(x, y, z)$ on the Angstrom scale ($\text{Å}$).
+   * Traces continuous alpha-helix spiral ribbons and overlays dashed spatial vectors representing hydrogen bond distances down to precise bounds (e.g., $2.8$ $\text{Å}$).
+
+3. **Antimicrobial Screening Lead Optimization Leaderboard**
+   * A dual-axis statistical visualization that syncs global Gibbs free energy calculations ($\Delta G$ in $\text{kcal/mol}$) side-by-side with localized stabilizing hydrogen bond counts.
+   * Enables prompt separation of high-affinity binding molecules from standard background noise.
+
+4. **Gibbs Energy vs. Coordinate Contact Dot Matrices**
+   * Multi-dimensional scatter tracking that measures how overall compound ranking changes relative to total hydrophobic environments and hydrogen bonding density.
+
+5. **Consolidated Graphic Dashboard Engine**
+   * Automatically combines multi-axis histograms, lead score matrices, and 3D spatial orientation coordinates into a single, high-density vector grid asset ($300\text{ DPI}$ `.png`) for reports or publications.
+
+
+## 🛠️ Data Infrastructure & Software Architecture
+The pipeline is designed using modular object-oriented steps:
+* **Structural Ingestion Frame:** Manages alphanumeric atomic parameters and transforms multi-species text files into functional tabular matrices (`pandas`, `numpy`).
+* **Graph Modeling Layer (`networkx`):** Maps non-covalent structural pathways and network coordinates.
+* **Hardware-Accelerated Render Engine (`py3Dmol`):** Compiles multi-layer WebGL graphical models directly from structural database resources (e.g., RCSB PDB structures).
+* **Canvas Grid Assembly Engine (`matplotlib`, `seaborn`):** Manages subplots, spacing boundaries, and multi-color palettes to export high-resolution assets.
+
+
+## 📦 Output Asset Registry
+Upon complete pipeline execution, the code writes out the following structural and statistical outputs into your workspace directory:
+* `docking_screening_leaderboard.csv` — Sorted spreadsheet file cataloging binding affinities, hydrogen bonds, and contact residues across the candidate library.
+* `compound_affinity_leaderboard.html` — Interactive, dual-axis standalone HTML graph component with responsive hover data statistics.
+* `ligand_interaction_network.png` — Two-dimensional topological map showing core active site contacts.
+* `molecular_docking_3d_pose.png` — Scaled vector illustration showing 3D spatial docking coordinates ($\text{Å}$).
+* `molecular_docking_dashboard.png` — Unified multi-plot analytical dashboard compiling all visual tracks into one image.
