@@ -1,1 +1,19 @@
+##  KEGG Pathway Enrichment Visualization
 
+# GSE147334 — TEX10 Knockdown CRC Analysis
+This module processes, filters, merges, and visualizes KEGG pathway enrichment results generated from **DAVID Functional Annotation Chart** reports. The analysis focuses on understanding the downstream functional impacts of **TEX10 knockdown in Colorectal Cancer (CRC)** using *Homo sapiens* expression profiling.
+
+## 🧬 Biological Context & Dataset
+* **GEO Accession:** [GSE147334](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE147334)
+* **Condition:** TEX10 Knockdown vs. Control in Colorectal Cancer (CRC) cells.
+* **Organism:** *Homo sapiens*
+* **Objective:** Map differentially expressed genes (DEGs) to biological pathways to uncover molecular mechanisms altered by TEX10 depletion.
+
+## 🛠️ Analysis Workflow
+1. **Data Import:** Ingest raw DAVID Functional Annotation Chart CSV reports for both up- and down-regulated DEGs.
+2. **Category Filtering:** Isolate entries specific to the `KEGG_PATHWAY` database.
+3. **Significance Thresholding:** Apply a statistical cutoff utilizing the DAVID EASE Score (modified Fisher Exact p-value) $\le 0.05$.
+4. **Dataset Integration:** Merge upregulated (8 pathways) and downregulated (2 pathways) datasets into a unified framework.
+5. **Data Structuring:** Clean text fields (e.g., stripping database identifiers from pathway titles) and compute statistical metrics ($-\log_{10}(\text{P-Value})$).
+6. **Data Visualization:** Output publication-quality figures capturing pathway dynamics.
+7. **Result Export:** Save structured records for downstream multi-omics integration.
