@@ -1,0 +1,11 @@
+Compound_ID,Binding_Affinity_kcal_mol,Hydrogen_Bonds,Hydrophobic_Interactions,Interacting_Residues,Rank
+AMC-LIG-010,-9.18,5,4,"His38,Gly77,Glu50,Phe121",1
+AMC-LIG-002,-8.79,3,7,"Asn46,Thr165,Asp73",2
+AMC-LIG-005,-8.35,4,8,"His38,Phe121,Asn46,Val43,Gly77",3
+AMC-LIG-008,-8.02,5,2,"Arg76,Gly77,Val43",4
+AMC-LIG-003,-7.98,5,5,"Gly77,Arg76,Asn46",5
+AMC-LIG-001,-7.63,5,8,"Glu50,Val43,Asp73,Phe121,Arg76",6
+AMC-LIG-006,-6.9,2,5,"Asn46,Thr165,Lys102,Asp73",7
+AMC-LIG-004,-6.1,1,8,"Thr165,Lys102,Asn46,Asp73",8
+AMC-LIG-009,-5.85,1,4,"Thr165,Asn46,Lys102",9
+AMC-LIG-007,-5.28,5,3,"Phe121,Thr165,His38,Val43,Arg76",10
