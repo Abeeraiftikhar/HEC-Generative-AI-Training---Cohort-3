@@ -1,12 +1,6 @@
 # 🧬 Transcriptomic Biomarker Discovery & Disease State Classification Pipeline
 
-[![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/)
-[![ML Framework](https://img.shields.io/badge/ML-XGBoost%20%7C%20Scikit--Learn-green)](https://xgboost.readthedocs.io/)
-[![Bioinformatics](https://img.shields.io/badge/Bioinformatics-DGEA%20%7C%20PCA-orange)](https://www.ncbi.nlm.nih.gov/geo/)
-
 An end-to-end bioinformatics and machine learning classification framework designed to distinguish disease states (Healthy vs. Colorectal Cancer) using high-dimensional transcriptomic profiles. This pipeline explicitly models and tracks the phenotypic impact of **TEX10 knockdown/dysregulation**, mathematically proving its downstream role as a critical diagnostic driver biomarker.
-
----
 
 ## 📌 Project Overview & Core Problem
 High-dimensional genomic data typically presents a **"large $p$, small $n$" challenge** (thousands of features/genes mapped across a limited cohort of patient samples). This repository delivers a structured methodology to overcome this constraint by combining statistical preprocessing with supervised machine learning:
@@ -15,8 +9,6 @@ High-dimensional genomic data typically presents a **"large $p$, small $n$" chal
 2. **Dimensionality Reduction:** Compressing feature spaces into non-overlapping geometric clusters using Unsupervised 3D Principal Component Analysis (PCA).
 3. **Supervised Classification:** Training an optimized **XGBoost Ensembled Classifier** to perform automated patient diagnostics.
 4. **Biomarker Extraction:** Ranking genes using tree-split structural feature importance metrics to cross-validate known biological drivers (*TEX10*).
-
----
 
 ## 🚀 Pipeline Architecture
 
