@@ -1,0 +1,40 @@
+**CardioRisk-AI** is an end-to-end predictive healthcare analytics pipeline designed to evaluate chronic disease risk using patient clinical parameters. Utilizing the classic **UCI Heart Disease Dataset**, this project addresses a common real-world problem in healthcare informatics: analyzing imbalanced patient records to accurately classify high-risk individuals. 
+
+To satisfy rigorous academic evaluation criteria, the system preprocesses raw clinical data, resolves acute class imbalances using **SMOTE**, and benchmarks three distinct classes of machine learning architectures: **Logistic Regression**, **Support Vector Machines (SVM)**, and **LightGBM**. It concludes by generating an interactive visual analytics dashboard.
+
+## 🔬 Clinical Problem Statement & Dataset
+Predicting chronic disease risk or 30-day hospital readmissions from sparse, imbalanced clinical data is a critical challenge in modern health informatics. Missing a high-risk patient (**False Negative**) carries severe clinical consequences. 
+
+This pipeline automatically streams the **UCI Cleveland Heart Disease Dataset** directly from the source. The dataset comprises 303 patient records mapped across 13 core clinical features:
+
+### 1. Data Curation & Preprocessing
+* **Automated Ingestion:** Streams the dataset programmatically via URL directly into Google Colab, removing the need for manual file downloads.
+* **Imputation Strategy:** Imputes missing clinical records using statistical safeguards—median values for continuous variables (`ca`) and mode values for categorical properties (`thal`).
+* **Target Binarization:** Standardizes multi-class diagnostic severities into a crisp binary risk vector (0 = Healthy, 1 = At Risk).
+
+### 2. Safeguarding Against Evaluation Biases
+* **Stratified Splitting:** Splitting occurs *before* balancing (80% Train / 20% Test) to ensure that evaluation sets strictly mimic real-world patient baseline ratios without data leakage.
+* **Feature Normalization:** Standardizes numerical data distributions via `StandardScaler`, ensuring distance-dependent classifiers (SVM) are not biased by disparate feature scales.
+* **SMOTE Over-sampling:** Synthesizes minority cohort examples using the Synthetic Minority Over-sampling Technique exclusively within the training pool, stabilizing classification sensitivity.
+
+### 3. Machine Learning Architectures Compared
+* **Logistic Regression:** Serves as a highly interpretable, linear statistical baseline.
+* **Support Vector Machine (SVM):** Constructs optimized, non-linear hyperplanes using probability-calibrated kernels.
+* **LightGBM:** Leverages a high-performance, gradient-boosted decision tree framework to extract intricate, non-linear feature interactions.
+
+
+## 📊 Presentation-Ready Deliverables
+
+Upon completion, the framework outputs and automatically triggers direct web browser downloads for the following strategic project artifacts:
+
+1. **`cleaned_clinical_heart_data.csv`**: The fully scrubbed, imputed, and scaled clinical dataset ready for downstream biostatistical analysis.
+2. **`dashboard_panel_A_roc.png`**: A high-resolution compilation of **Interactive ROC-AUC Curves** demonstrating the discrimination accuracy of each model.
+3. **`dashboard_panel_B_confusion_matrix.png`**: A side-by-side **Clinical Confusion Matrix Matrix** optimized for examining true sensitivities and reducing dangerous **False Negatives**.
+
+### Requirements
+* Python 3.12+
+* NumPy & Pandas
+* Scikit-Learn
+* Imbalanced-Learn
+* LightGBM
+* Plotly & Kaleido
