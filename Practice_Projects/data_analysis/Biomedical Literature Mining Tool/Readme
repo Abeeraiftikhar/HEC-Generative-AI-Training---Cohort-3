@@ -1,0 +1,14 @@
+Biomedical Literature Mining Tool
+
+An automated NLP and text-mining pipeline designed to extract structural insights 
+from unstructured medical literature. This tool integrates advanced linguistic 
+processing and machine learning architectures to perform:
+
+1. Semantic Keyword Extraction: Filters grammatical stop words and builds frequency-based 
+   word clouds to map immediate research focus.
+2. Hybrid Named Entity Recognition (NER): Utilizes pattern-matching and token-classification 
+   rules to isolate biological markers (genes/proteins like TP53, EGFR, KRAS) and 
+   geographic context safely without altering complex scientific nomenclature.
+3. Generative LLM Summarization: Leverages an instruction-tuned language model 
+   (Qwen2.5-1.5B-Instruct) to distill dense scientific abstracts into clear, 
+   mechanism-focused executive briefs.
