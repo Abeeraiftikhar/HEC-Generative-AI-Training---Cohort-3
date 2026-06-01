@@ -36,8 +36,6 @@ This repository contains all my work, assignments, and learning materials from t
 
 ---
 
----
-
 ## 📈 Learning Outcome
 
 Through this training, I aim to:
@@ -56,6 +54,6 @@ Special thanks to **HEC (Higher Education Commission Pakistan)** for organizing 
 ## 📬 Connect with Me
 
 Feel free to connect or collaborate!
-
-- LinkedIn: (Add your profile)
-- Email: (Add your email)
+-Live Dashbaord :https://abeeraiftikhar.github.io/HEC-Generative-AI-Training---Cohort-3/
+- LinkedIn: www.linkedin.com/in/abeeraiftikhar
+- Email: iftikharabeera100@gmail.com
